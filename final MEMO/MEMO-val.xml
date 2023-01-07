@@ -1,0 +1,1022 @@
+<MEMO>
+<opinion id="1">
+	<text>We were happy with the bedroom but dissatisfied with the place and front desk. Our bedroom was great due to being on the 20th floor overlooking Broadway, but the building was low. The kitchen was clean, but the dishwasher was lacking.</text>
+	<sentence id="101">
+		<text>We were happy with the bedroom but dissatisfied with the place and front desk.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="23" polarity="positive" term="bedroom" to="30" />
+			<aspectTerm domain="position" from="57" polarity="negative" term="place" to="62" />
+			<aspectTerm domain="service" from="67" polarity="negative" term="front desk" to="77" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<sentence id="102">
+		<text>Our bedroom was great due to being on the 20th floor overlooking Broadway, but the building was low.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="bedroom" to="11" />
+			<aspectTerm domain="construction" from="83" polarity="negative" term="building" to="91" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="103">
+		<text>The kitchen was clean, but the dishwasher was lacking.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="kitchen" to="11" />
+			<aspectTerm domain="construction" from="31" polarity="negative" term="dishwasher" to="41" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>negative</opinionPolarity>
+</opinion>
+<opinion id="2">
+	<text>A convenient area in Central Park, Lincoln Center, although the gym is quite hidden. The suite is lovely - the drapes not so comfortable, and it does not include a washing machine. The manager is so accommodating and so easy to take a city bus.</text>
+	<sentence id="201">
+		<text>A convenient area in Central Park, Lincoln Center, although the gym is quite hidden.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="13" polarity="positive" term="area" to="17" />
+			<aspectTerm domain="construction" from="64" polarity="negative" term="gym" to="67" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="202">
+		<text>The suite is lovely - the drapes not so comfortable, and it does not include a washing machine.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="suite" to="9" />
+			<aspectTerm domain="furniture" from="26" polarity="negative" term="drapes" to="32" />
+			<aspectTerm domain="furniture" from="79" polarity="negative" term="washing machine" to="94" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<sentence id="203">
+		<text>The manager is so accommodating and so easy to take a city bus.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="manager" to="11" />
+			<aspectTerm domain="transport" from="54" polarity="negative" term="city bus" to="62" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>negative</opinionPolarity>
+</opinion>
+<opinion id="3">
+	<text>We had two different suites during our stay, and the view was quite convenient. It was a nicely appointed living room, and the seats were comfortable, but the tv was slow. Sweet cakes were must-eats at the restaurant, but so strong coffee.</text>
+	<sentence id="301">
+		<text>We had two different suites during our stay, and the view was quite convenient.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="21" polarity="neutral" term="suites" to="27" />
+			<aspectTerm domain="construction" from="53" polarity="positive" term="view" to="57" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="302">
+		<text>It was a nicely appointed living room, and the seats were comfortable, but the tv was slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="26" polarity="positive" term="living room" to="37" />
+			<aspectTerm domain="furniture" from="47" polarity="positive" term="seats" to="52" />
+			<aspectTerm domain="furniture" from="79" polarity="negative" term="tv" to="81" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="303">
+		<text>Sweet cakes were must-eats at the restaurant, but so strong coffee.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="-1" polarity="positive" term="sweet cakes" to="10" />
+			<aspectTerm domain="drink" from="60" polarity="negative" term="coffee" to="66" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="201">
+	<text>The best hotel I have ever stayed in, the room is charming, the bed is very comfortable, and a reasonable price, but no loyalty program. Amiable staff, but it has no good view. It has a great location but no iHome for my iPod.</text>
+	<sentence id="20101">
+		<text>The best hotel I have ever stayed in, the room is charming, the bed is very comfortable, and a reasonable price, but no loyalty program.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="9" polarity="positive" term="hotel" to="14" />
+			<aspectTerm domain="accommodation" from="42" polarity="positive" term="room" to="46" />
+			<aspectTerm domain="furniture" from="64" polarity="positive" term="bed" to="67" />
+			<aspectTerm domain="finace" from="106" polarity="positive" term="price" to="111" />
+			<aspectTerm domain="service" from="120" polarity="negative" term="loyalty program" to="135" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20102">
+		<text>Amiable staff, but it has no good view.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="8" polarity="positive" term="staff" to="13" />
+			<aspectTerm domain="construction" from="34" polarity="negative" term="view" to="38" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="20103">
+		<text>It has a great location but no iHome for my iPod.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="15" polarity="positive" term="location" to="23" />
+			<aspectTerm domain="furniture" from="31" polarity="negative" term="iHome" to="36" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="202">
+	<text>The hotel was beautiful, and the staff was so friendly but the concierge was a bit not professional. It has a fantastic soup and excellent wine but not-so-good service.</text>
+	<sentence id="20201">
+		<text>The hotel was beautiful, and the staff was so friendly but the concierge was a bit not professional.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="hotel" to="9" />
+			<aspectTerm domain="staff" from="33" polarity="positive" term="staff" to="38" />
+			<aspectTerm domain="staff" from="63" polarity="negative" term="concierge" to="72" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20202">
+		<text>It has a fantastic soup and excellent wine but not-so-good service.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="19" polarity="positive" term="soup" to="23" />
+			<aspectTerm domain="drink" from="38" polarity="positive" term="wine" to="42" />
+			<aspectTerm domain="service" from="59" polarity="negative" term="service" to="66" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="203">
+	<text>I loved this hotel; spotless and had beautiful rooms, although the view was not so good. A fantastic staff, and special thanks to the reservation manager, the room service was unprofessional. The hotel is not in a great location but has spacious rooms and very comfortable beds.</text>
+	<sentence id="5301">
+		<text>I loved this hotel; spotless and had beautiful rooms, although the view was not so good.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="-1" polarity="positive" term="soup" to="3" />
+			<aspectTerm domain="accommodation" from="47" polarity="positive" term="rooms" to="52" />
+			<aspectTerm domain="construction" from="67" polarity="negative" term="view" to="71" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20302">
+		<text>A fantastic staff, and special thanks to the reservation manager, the room service was unprofessional.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="12" polarity="positive" term="staff" to="17" />
+			<aspectTerm domain="staff" from="45" polarity="positive" term="reservation manager" to="64" />
+			<aspectTerm domain="service" from="70" polarity="negative" term="room service" to="82" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20303">
+		<text>The hotel is not in a great location but has spacious rooms and very comfortable beds.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="28" polarity="positive" term="location" to="36" />
+			<aspectTerm domain="accommodation" from="54" polarity="positive" term="rooms" to="59" />
+			<aspectTerm domain="furniture" from="81" polarity="negative" term="beds" to="85" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="204">
+	<text>The location is excellent, although it is fair far from the airport. The room was relatively small, but the bathroom was well-appointed, and the shower was great. I can't comment on the facilities; however, there was no room service menu in my room, no facilities directory, and no breakfast card.</text>
+	<sentence id="20401">
+		<text>The location is excellent, although it is fair far from the airport.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="transport" from="60" polarity="negative" term="airport" to="67" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="20402">
+		<text>The room was relatively small, but the bathroom was well-appointed, and the shower was great.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="negative" term="room" to="8" />
+			<aspectTerm domain="accommodation" from="39" polarity="positive" term="bathroom" to="47" />
+			<aspectTerm domain="furniture" from="76" polarity="positive" term="shower" to="82" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20403">
+		<text>I can't comment on the facilities; however, there was no room service menu in my room, no facilities directory, and no breakfast card.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="23" polarity="neutral" term="facilities" to="33" />
+			<aspectTerm domain="furniture" from="57" polarity="negative" term="room service menu" to="74" />
+			<aspectTerm domain="furniture" from="90" polarity="negative" term="facilities directory" to="110" />
+			<aspectTerm domain="furniture" from="119" polarity="negative" term="breakfast card" to="133" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="205">
+	<text>The location is excellent, although it is fair far from the subway. The room was relatively large, but delayed check-in, and computers were down.</text>
+	<sentence id="20501">
+		<text>The location is excellent, although it is fair far from the airport.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="transport" from="-1" polarity="negative" term="subway" to="5" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="20502">
+		<text>The room was relatively large, but delayed check-in, and computers were down.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="service" from="43" polarity="negative" term="check-in" to="51" />
+			<aspectTerm domain="furniture" from="57" polarity="negative" term="computers" to="66" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<opinionPolarity>negative</opinionPolarity>
+</opinion>
+<opinion id="206">
+	<text>The hotel is in a great location, and the lobby is dark, a couple of blocks from the subway. The room was big with lots of space, there was enough TV, an iPod dock, and an uncomfy bed, but the bathroom smelled gloomy.</text>
+	<sentence id="20601">
+		<text>The hotel is in a great location, and the lobby is dark, a couple of blocks from the subway.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="24" polarity="positive" term="location" to="32" />
+			<aspectTerm domain="facility" from="42" polarity="negative" term="lobby" to="47" />
+			<aspectTerm domain="transport" from="85" polarity="positive" term="subway" to="91" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20602">
+		<text>The room was big with lots of space, there was enough TV, an iPod dock, and an uncomfy bed, but the bathroom smelled gloomy.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="furniture" from="-1" polarity="positive" term="tv" to="1" />
+			<aspectTerm domain="furniture" from="61" polarity="positive" term="iPod dock" to="70" />
+			<aspectTerm domain="furniture" from="87" polarity="negative" term="bed" to="90" />
+			<aspectTerm domain="accommodation" from="100" polarity="negative" term="bathroom" to="108" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="207">
+	<text>Lack of iPhone sockets, but the staff is attentive and friendly. The wine hour is always worth a visit, but the dessert is not so good.</text>
+	<sentence id="20701">
+		<text>Lack of iPhone sockets, but the staff is attentive and friendly.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="8" polarity="negative" term="iPhone sockets" to="22" />
+			<aspectTerm domain="staff" from="32" polarity="positive" term="staff" to="37" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20702">
+		<text>The wine hour is always worth a visit, but the dessert is not so good.</text>
+		<aspectTerms>
+			<aspectTerm domain="service" from="4" polarity="positive" term="wine hour" to="13" />
+			<aspectTerm domain="food" from="47" polarity="negative" term="dessert" to="54" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="208">
+	<text>I loved this hotel because its location was convenient to lots of spots in New York City, and the staff was amiable and helpful but delayed check-in. The elevator in the hotel was a little slow, but we the view was so lovely.</text>
+	<sentence id="20801">
+		<text>I loved this hotel because its location was convenient to lots of spots in New York City, and the staff was amiable and helpful but delayed check-in.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="13" polarity="positive" term="hotel" to="18" />
+			<aspectTerm domain="position" from="31" polarity="positive" term="location" to="39" />
+			<aspectTerm domain="staff" from="98" polarity="positive" term="staff" to="103" />
+			<aspectTerm domain="service" from="140" polarity="negative" term="check-in" to="148" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20802">
+		<text>The elevator in the hotel was a little slow, but we the view was so lovely.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="4" polarity="negative" term="elevator" to="12" />
+			<aspectTerm domain="construction" from="56" polarity="positive" term="view" to="60" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="209">
+	<text>We loved the hotel because the staff was friendly, but the room was not as described. The room was one of the cleanest rooms we have ever stayed in, although the bed was small.</text>
+	<sentence id="5901">
+		<text>We loved the hotel because the staff was friendly, but the room was not as described.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="13" polarity="positive" term="hotel" to="18" />
+			<aspectTerm domain="staff" from="31" polarity="positive" term="staff" to="36" />
+			<aspectTerm domain="accommodation" from="59" polarity="negative" term="room" to="63" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="20902">
+		<text>The room was one of the cleanest rooms we have ever stayed in, although the bed was small.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="furniture" from="76" polarity="negative" term="bed" to="79" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="210">
+	<text>Delayed payment, but our waiter was friendly and ensured we had everything we needed. The orange juice was freshly squeezed and delicious, although the glass was not beautiful. The great pastries were fresh, but the coffee was not freshly.</text>
+	<sentence id="6001">
+		<text>Delayed payment, but our waiter was friendly and ensured we had everything we needed.</text>
+		<aspectTerms>
+			<aspectTerm domain="finance" from="8" polarity="negative" term="payment" to="15" />
+			<aspectTerm domain="staff" from="25" polarity="positive" term="waiter" to="31" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="21002">
+		<text>The orange juice was freshly squeezed and delicious, although the glass was not beautiful.</text>
+		<aspectTerms>
+			<aspectTerm domain="drink" from="4" polarity="positive" term="orange juice" to="16" />
+			<aspectTerm domain="furniture" from="66" polarity="negative" term="glass" to="71" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="21003">
+		<text>The great pastries were fresh, but the coffee was not freshly.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="10" polarity="positive" term="pastries" to="18" />
+			<aspectTerm domain="drink" from="39" polarity="negative" term="coffee" to="45" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="211">
+	<text>They had the best complimentary coffee in the morning and the best hot apple cider in the evening; however, the time service was so short. The lobby was so warm to sit and talk to other people staying at the hotel, but it lacked seats.</text>
+	<sentence id="21101">
+		<text>They had the best complimentary coffee in the morning and the best hot apple cider in the evening; however, the time service was so short.</text>
+		<aspectTerms>
+			<aspectTerm domain="drink" from="32" polarity="positive" term="coffee" to="38" />
+			<aspectTerm domain="drink" from="71" polarity="positive" term="apple cider" to="82" />
+			<aspectTerm domain="service" from="112" polarity="negative" term="time service" to="124" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21102">
+		<text>The lobby was so warm to sit and talk to other people staying at the hotel, but it lacked seats.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="4" polarity="positive" term="lobby" to="9" />
+			<aspectTerm domain="furniture" from="90" polarity="negative" term="seats" to="95" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="212">
+	<text>The rooms are spotless, with great amenities, but the food was inedible. The staff was wonderfully attentive without being overbearing, but the room service was slow. </text>
+	<sentence id="21201">
+		<text>The rooms are spotless, with great amenities, but the food was inedible.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="rooms" to="9" />
+			<aspectTerm domain="furniture" from="35" polarity="positive" term="amenities" to="44" />
+			<aspectTerm domain="food" from="54" polarity="negative" term="food" to="58" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21202">
+		<text>The staff was wonderfully attentive without being overbearing, but the room service was slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="staff" to="9" />
+			<aspectTerm domain="service" from="71" polarity="negative" term="room service" to="83" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="213">
+	<text>The front desk went the extra mile to make me feel comfortable and give idiot-proof directions to this tourist, but the lobby was uncomfortable. The quiet elegance of the room was comforting, although the view was low!</text>
+	<sentence id="21301">
+		<text>The front desk went the extra mile to make me feel comfortable and give idiot-proof directions to this tourist, but the lobby was uncomfortable.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="front desk" to="14" />
+			<aspectTerm domain="facility" from="120" polarity="negative" term="lobby" to="125" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="21302">
+		<text>The quiet elegance of the room was comforting, although the view was low!</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="26" polarity="positive" term="room" to="30" />
+			<aspectTerm domain="construction" from="60" polarity="negative" term="view" to="64" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="214">
+	<text>Very easy access wifi, convenient location, but uncomfortable rooms. No luxurious beds, but good service.</text>
+	<sentence id="21401">
+		<text>Very easy access wifi, convenient location, but uncomfortable rooms.</text>
+		<aspectTerms>
+			<aspectTerm domain="service" from="17" polarity="positive" term="wifi" to="21" />
+			<aspectTerm domain="accommodation" from="62" polarity="negative" term="rooms" to="67" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="21402">
+		<text>No luxurious beds, but good service.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="13" polarity="negative" term="beds" to="17" />
+			<aspectTerm domain="service" from="28" polarity="positive" term="service" to="35" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="215">
+	<text>We appreciate the convenience of the location, and the executive suite is perfectly designed for 2 or 3 people, but the room style is a bit old. It features a pullout sofa and a small kitchen, and the linens are top-notch.</text>
+	<sentence id="21501">
+		<text>We appreciate the convenience of the location, and the executive suite is perfectly designed for 2 or 3 people, but the room style is a bit old.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="37" polarity="positive" term="location" to="45" />
+			<aspectTerm domain="accommodation" from="55" polarity="positive" term="executive suite" to="70" />
+			<aspectTerm domain="construction" from="120" polarity="negative" term="room style" to="130" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21502">
+		<text>It features a pullout sofa and a small kitchen, and the linens are top-notch.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="14" polarity="neutral" term="pullout sofa" to="26" />
+			<aspectTerm domain="accommodation" from="39" polarity="neutral" term="kitchen" to="46" />
+			<aspectTerm domain="furniture" from="56" polarity="positive" term="linens" to="62" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="216">
+	<text>The rooms are spotless and comfy, and the buffet has many choices, but the menu is not very good. The staff is the best, although the laundry service is so slow.</text>
+	<sentence id="21601">
+		<text>The rooms are spotless and comfy, and the buffet has many choices, but the menu is not very good.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="rooms" to="9" />
+			<aspectTerm domain="restaurant" from="42" polarity="positive" term="buffet" to="48" />
+			<aspectTerm domain="restaurant" from="75" polarity="negative" term="menu" to="79" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21602">
+		<text>The staff is the best, although the laundry service is so slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="staff" to="9" />
+			<aspectTerm domain="service" from="36" polarity="negative" term="laundry service" to="51" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="217">
+	<text>The view of the hotel is good, and the rooms are clear and clean, but the lounge is narrow. The location is in the middle of town, so quick to the train but far from the airport.</text>
+	<sentence id="21701">
+		<text>The view of the hotel is good, and the rooms are clear and clean, but the lounge is narrow.</text>
+		<aspectTerms>
+			<aspectTerm domain="construction" from="4" polarity="positive" term="view" to="8" />
+			<aspectTerm domain="accommodation" from="39" polarity="positive" term="rooms" to="44" />
+			<aspectTerm domain="facility" from="74" polarity="negative" term="lounge" to="80" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21702">
+		<text>The location is in the middle of town, so quick to the train but far from the airport.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="transport" from="78" polarity="negative" term="airport" to="85" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="218">
+	<text>Great staff, the best location, and the hotel style are not modern. We love the sweet cakes here, although the time service is so slow.</text>
+	<sentence id="21801">
+		<text>Great staff, the best location, and the hotel style are not modern.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="6" polarity="positive" term="staff" to="11" />
+			<aspectTerm domain="position" from="22" polarity="positive" term="location" to="30" />
+			<aspectTerm domain="construction" from="40" polarity="negative" term="hotel style" to="51" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="21802">
+		<text>We love the sweet cakes here, although the time service is so slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="12" polarity="positive" term="sweet cakes" to="23" />
+			<aspectTerm domain="service" from="43" polarity="negative" term="time service" to="55" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="219">
+	<text>Lovely location and the rooms are well appointed and cozy, but the bed is small, and the fridge is lacking. The staff is very welcoming, and the concierge is knowledgeable, but the check-in is delayed.</text>
+	<sentence id="21901">
+		<text>Lovely location and the rooms are well appointed and cozy, but the bed is small, and the fridge is lacking.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="7" polarity="positive" term="location" to="15" />
+			<aspectTerm domain="accommodation" from="24" polarity="positive" term="rooms" to="29" />
+			<aspectTerm domain="furniture" from="67" polarity="negative" term="bed" to="70" />
+			<aspectTerm domain="furniture" from="89" polarity="negative" term="fridge" to="95" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="21902">
+		<text>The staff is very welcoming, and the concierge is knowledgeable, but the check-in is delayed.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="staff" to="9" />
+			<aspectTerm domain="staff" from="37" polarity="positive" term="concierge" to="46" />
+			<aspectTerm domain="service" from="73" polarity="negative" term="check-in" to="81" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="220">
+	<text>There are excellent staff, location, big, friendly, clean rooms, but the narrow view. The food service was incredible, but the sushi and salad were not fresh.</text>
+	<sentence id="22001">
+		<text>There are excellent staff, location, big, friendly, clean rooms, but the narrow view.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="20" polarity="positive" term="staff" to="25" />
+			<aspectTerm domain="position" from="27" polarity="positive" term="location" to="35" />
+			<aspectTerm domain="accommodation" from="58" polarity="positive" term="rooms" to="63" />
+			<aspectTerm domain="construction" from="80" polarity="negative" term="view" to="84" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="22002">
+		<text>The food service was incredible, but the sushi and salad were not fresh.</text>
+		<aspectTerms>
+			<aspectTerm domain="service" from="4" polarity="positive" term="food service" to="16" />
+			<aspectTerm domain="food" from="41" polarity="negative" term="sushi" to="46" />
+			<aspectTerm domain="food" from="51" polarity="negative" term="salad" to="56" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<opinionPolarity>negative</opinionPolarity>
+</opinion>
+<opinion id="221">
+	<text>Great hotel to stay and visit, but the location is not convenient. The room style and staff are friendly, but the bathroom sometimes smells.</text>
+	<sentence id="22101">
+		<text>Great hotel to stay and visit, but the location is not convenient.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="6" polarity="positive" term="hotel" to="11" />
+			<aspectTerm domain="position" from="39" polarity="negative" term="location" to="47" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="22102">
+		<text>The room style and staff are friendly, but the bathroom sometimes smells.</text>
+		<aspectTerms>
+			<aspectTerm domain="construction" from="4" polarity="positive" term="room style" to="14" />
+			<aspectTerm domain="staff" from="19" polarity="positive" term="staff" to="24" />
+			<aspectTerm domain="accommodation" from="47" polarity="negative" term="bathroom" to="55" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="222">
+	<text>The room was clean and bright, but the bed was relatively small. An excellent buffet and great staff, but the internet is not fast.</text>
+	<sentence id="22201">
+		<text>The room was clean and bright, but the bed was relatively small.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="furniture" from="39" polarity="negative" term="bed" to="42" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="22202">
+		<text>An excellent buffet and great staff, but the internet is not fast.</text>
+		<aspectTerms>
+			<aspectTerm domain="restaurant" from="13" polarity="positive" term="buffet" to="19" />
+			<aspectTerm domain="staff" from="30" polarity="positive" term="staff" to="35" />
+			<aspectTerm domain="service" from="45" polarity="negative" term="internet" to="53" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="223">
+	<text>Thanks to all the staff, the rooms are spacious and spotless, although the bed is uncomfortable and the shower is tiny. The restaurant has many excellent cakes and juices, but the coffee was so strong that it tasted like acid.</text>
+	<sentence id="22301">
+		<text>Thanks to all the staff, the rooms are spacious and spotless, although the bed is uncomfortable and the shower is tiny.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="18" polarity="positive" term="staff" to="23" />
+			<aspectTerm domain="accommodation" from="29" polarity="positive" term="rooms" to="34" />
+			<aspectTerm domain="furniture" from="75" polarity="negative" term="bed" to="78" />
+			<aspectTerm domain="furniture" from="104" polarity="negative" term="shower" to="110" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="22302">
+		<text>The restaurant has many excellent cakes and juices, but the coffee was so strong that it tasted like acid.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="34" polarity="positive" term="cakes" to="39" />
+			<aspectTerm domain="drink" from="44" polarity="positive" term="juices" to="50" />
+			<aspectTerm domain="drink" from="60" polarity="negative" term="coffee" to="66" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="224">
+	<text>When we arrived, the staff welcomed us and took our bags to our room; the room and bathroom were tiny. The location was terrific, and the concierge was friendly, but it was not easy to take a taxi.</text>
+	<sentence id="22401">
+		<text>When we arrived, the staff welcomed us and took our bags to our room; the room and bathroom were tiny.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="21" polarity="neutral" term="staff" to="26" />
+			<aspectTerm domain="accommodation" from="64" polarity="negative" term="room" to="68" />
+			<aspectTerm domain="accommodation" from="83" polarity="negative" term="bathroom" to="91" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<sentence id="22402">
+		<text>The location was terrific, and the concierge was friendly, but it was not easy to take a taxi.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="staff" from="35" polarity="positive" term="concierge" to="44" />
+			<aspectTerm domain="transport" from="89" polarity="negative" term="taxi" to="93" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="225">
+	<text>The check-in and check-out were very smooth and did not take long, although the computers were errors! The grilled dishes were delicious, but the grape wine was intense.</text>
+	<sentence id="22501">
+		<text>The check-in and check-out were very smooth and did not take long, although the computers were errors!</text>
+		<aspectTerms>
+			<aspectTerm domain="service" from="4" polarity="positive" term="check-in" to="12" />
+			<aspectTerm domain="service" from="17" polarity="positive" term="check-out" to="26" />
+			<aspectTerm domain="furniture" from="80" polarity="negative" term="computers" to="89" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="22502">
+		<text>The grilled dishes were delicious, but the grape wine was intense.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="4" polarity="positive" term="grilled dishes" to="18" />
+			<aspectTerm domain="drink" from="43" polarity="negative" term="grape wine" to="53" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="226">
+	<text>When we arrived, the staff welcomed us and took our bags to our room; the room and bathroom were tiny. The location was terrific, and the concierge was friendly, but it was not easy to take a taxi.</text>
+	<sentence id="22601">
+		<text>When we arrived, the staff welcomed us and took our bags to our room; the room and bathroom were tiny.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="21" polarity="neutral" term="staff" to="26" />
+			<aspectTerm domain="accommodation" from="64" polarity="negative" term="room" to="68" />
+			<aspectTerm domain="accommodation" from="83" polarity="negative" term="bathroom" to="91" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<sentence id="22602">
+		<text>The location was terrific, and the concierge was friendly, but it was not easy to take a taxi.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="staff" from="35" polarity="positive" term="concierge" to="44" />
+			<aspectTerm domain="transport" from="89" polarity="negative" term="taxi" to="93" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="227">
+	<text>The front desk and staff were very welcoming, and the room was small but average in NY. Sometimes it is smelled in the bathroom, and the bed should be softer, but I loved the plugs in the nightstands for my phone!</text>
+	<sentence id="22701">
+		<text>The front desk and staff were very welcoming, and the room was small but average in NY.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="front desk" to="14" />
+			<aspectTerm domain="staff" from="19" polarity="positive" term="staff" to="24" />
+			<aspectTerm domain="accommodation" from="54" polarity="negative" term="room" to="58" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="22702">
+		<text>Sometimes it is smelled in the bathroom, and the bed should be softer, but I loved the plugs in the nightstands for my phone!</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="31" polarity="negative" term="bathroom" to="39" />
+			<aspectTerm domain="furniture" from="49" polarity="negative" term="bed" to="52" />
+			<aspectTerm domain="furniture" from="87" polarity="positive" term="plugs" to="92" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="228">
+	<text>The hotel does not have a grand entrance; however, once inside, its art deco style embraces you. We had to take a long time to check in but were complimentary cocktails.</text>
+	<sentence id="22801">
+		<text>The hotel does not have a grand entrance; however, once inside, its art deco style embraces you.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="26" polarity="negative" term="grand entrance" to="40" />
+			<aspectTerm domain="construction" from="72" polarity="positive" term="deco style" to="82" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="22802">
+		<text>We had to take a long time to check in but were complimentary cocktails.</text>
+		<aspectTerms>
+			<aspectTerm domain="service" from="30" polarity="negative" term="check in" to="38" />
+			<aspectTerm domain="drink" from="62" polarity="positive" term="cocktails" to="71" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="229">
+	<text>The room was superb except for the not-good view and the dark bathroom. The rain shower is the best I have experienced, and my wife did not love the toilet due to not saving water.</text>
+	<sentence id="22901">
+		<text>The room was superb except for the not-good view and the dark bathroom.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="accommodation" from="62" polarity="negative" term="bathroom" to="70" />
+			<aspectTerm domain="construction" from="44" polarity="negative" term="view" to="48" />
+		</aspectTerms>
+		<sentencePolarity>negative</sentencePolarity>
+	</sentence>
+	<sentence id="22902">
+		<text>The rain shower is the best I have experienced, and my wife did not love the toilet due to not saving water.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="4" polarity="positive" term="rain shower" to="15" />
+			<aspectTerm domain="furniture" from="77" polarity="negative" term="toilet" to="83" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>negative</opinionPolarity>
+</opinion>
+<opinion id="230">
+	<text>The location is not right in the center, but numerous choices of eating establishments are offered. The beef is worth every penny and wine price is not cheap.</text>
+	<sentence id="23001">
+		<text>The location is not right in the center, but numerous choices of eating establishments are offered.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="negative" term="location" to="12" />
+			<aspectTerm domain="restaurant" from="65" polarity="positive" term="eating establishments" to="86" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23002">
+		<text>The beef is worth every penny and wine price is not cheap.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="4" polarity="positive" term="beef" to="8" />
+			<aspectTerm domain="finance" from="34" polarity="negative" term="wine price" to="44" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="231">
+	<text>The manager is so pleasant, kind, and helpful, the bathrooms are huge and clean, but the shower is not a rain shower. The beds are incredibly comfortable, but the room service is relatively slow.</text>
+	<sentence id="23101">
+		<text>The manager is so pleasant, kind, and helpful, the bathrooms are huge and clean, but the shower is not a rain shower.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="manager" to="11" />
+			<aspectTerm domain="accommodation" from="51" polarity="positive" term="bathroom" to="59" />
+			<aspectTerm domain="furniture" from="89" polarity="negative" term="shower" to="95" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="23102">
+		<text>The beds are incredibly comfortable, but the room service is relatively slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="4" polarity="positive" term="beds" to="8" />
+			<aspectTerm domain="service" from="45" polarity="negative" term="room service" to="57" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="232">
+	<text>We stayed in a suite with views of the library, and the location was superb. Our suite was huge, and the bathrooms were sleek, but the toiletries were lacking.</text>
+	<sentence id="23201">
+		<text>We stayed in a suite with views of the library, and the location was superb.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="15" polarity="neutral" term="suite" to="20" />
+			<aspectTerm domain="construction" from="26" polarity="neutral" term="view" to="30" />
+			<aspectTerm domain="position" from="56" polarity="positive" term="location" to="64" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="23202">
+		<text>Our suite was huge, and the bathrooms were sleek, but the toiletries were lacking.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="suite" to="9" />
+			<aspectTerm domain="accommodation" from="28" polarity="positive" term="bathrooms" to="37" />
+			<aspectTerm domain="furniture" from="58" polarity="negative" term="toiletries" to="68" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="233">
+	<text>There was a kitchenette, including a dishwasher, and all non-alcoholic drinks were free without snacks. The rate was reasonable, and we were satisfied with the room service, although service time was a bit slow.</text>
+	<sentence id="23301">
+		<text>There was a kitchenette, including a dishwasher, and all non-alcoholic drinks were free without snacks.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="12" polarity="neutral" term="kitchenette" to="23" />
+			<aspectTerm domain="furniture" from="37" polarity="neutral" term="dishwasher" to="47" />
+			<aspectTerm domain="drink" from="57" polarity="positive" term="non-alcoholic drinks" to="77" />
+			<aspectTerm domain="food" from="96" polarity="negative" term="snacks" to="102" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23302">
+		<text>The rate was reasonable, and we were satisfied with the room service, although service time was a bit slow.</text>
+		<aspectTerms>
+			<aspectTerm domain="finance" from="4" polarity="neutral" term="rate" to="8" />
+			<aspectTerm domain="service" from="56" polarity="positive" term="room service" to="68" />
+			<aspectTerm domain="service" from="79" polarity="negative" term="service time" to="91" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="234">
+	<text>The soup and dessert were delicious, although they did not include complimentary wine. The hotel style is trendy and modern, but its decor does not feel cozy, and the service is excellent.</text>
+	<sentence id="23401">
+		<text>The soup and dessert were delicious, although they did not include complimentary wine.</text>
+		<aspectTerms>
+			<aspectTerm domain="food" from="4" polarity="positive" term="soup" to="8" />
+			<aspectTerm domain="food" from="13" polarity="positive" term="dessert" to="20" />
+			<aspectTerm domain="drink" from="81" polarity="negative" term="wine" to="85" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="23402">
+		<text>The hotel style is trendy and modern, but its decor does not feel cozy, and the service is excellent.</text>
+		<aspectTerms>
+			<aspectTerm domain="construction" from="4" polarity="positive" term="hotel style" to="15" />
+			<aspectTerm domain="construction" from="46" polarity="negative" term="decor" to="51" />
+			<aspectTerm domain="service" from="80" polarity="positive" term="service" to="87" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="235">
+	<text>Beautiful bathrooms, trendy decor; unfortunately, the rooms are uncomfortable and useless to work or read in. There is no comfortable chair or sofa on which to sit; when in your room, only the bed and view offer any true respite.</text>
+	<sentence id="23501">
+		<text>Beautiful bathrooms, trendy decor; unfortunately, the rooms are uncomfortable and useless to work or read in.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="10" polarity="positive" term="bathrooms" to="19" />
+			<aspectTerm domain="construction" from="28" polarity="positive" term="decor" to="33" />
+			<aspectTerm domain="accommodation" from="14" polarity="negative" term="rooms" to="19" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="23502">
+		<text>There is no comfortable chair or sofa on which to sit; when in your room, only the bed and view offer any true respite.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="24" polarity="negative" term="chair" to="29" />
+			<aspectTerm domain="furniture" from="33" polarity="negative" term="sofa" to="37" />
+			<aspectTerm domain="furniture" from="83" polarity="positive" term="bed" to="86" />
+			<aspectTerm domain="construction" from="91" polarity="positive" term="view" to="95" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="236">
+	<text>The bed is comfortable, but the view is a bit low. The beautiful bath and the shower is black mold.</text>
+	<sentence id="23601">
+		<text>The bed is comfortable, but the view is a bit low.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="4" polarity="positive" term="bed" to="7" />
+			<aspectTerm domain="construction" from="32" polarity="negative" term="view" to="36" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23602">
+		<text>The beautiful bathroom and the shower is black mold.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="14" polarity="positive" term="bathroom" to="22" />
+			<aspectTerm domain="furniture" from="31" polarity="negative" term="shower" to="37" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="237">
+	<text>We were welcomed in their slick lobby, but the check-in process took a little time. Small gym but with modern equipment. Small gym but with modern equipment. Cool and chic design and excellent beef but do not have a good vibe for a cocktail.</text>
+	<sentence id="23701">
+		<text>We were welcomed in their slick lobby, but the check-in process took a little time.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="32" polarity="positive" term="lobby" to="37" />
+			<aspectTerm domain="service" from="47" polarity="negative" term="check-in process" to="63" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23702">
+		<text>Small gym but with modern equipment. Small gym but with modern equipment.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="6" polarity="negative" term="gym" to="9" />
+			<aspectTerm domain="furniture" from="26" polarity="positive" term="equipment" to="35" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23703">
+		<text>Cool and chic design and excellent beef but do not have a good vibe for a cocktail.</text>
+		<aspectTerms>
+			<aspectTerm domain="construction" from="14" polarity="positive" term="design" to="20" />
+			<aspectTerm domain="food" from="35" polarity="positive" term="beef" to="39" />
+			<aspectTerm domain="drink" from="74" polarity="negative" term="cocktail" to="82" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="238">
+	<text>The location is excellent, but you can not quickly go to the subway. There is a fold-out couch, and it was nice to have a fridge. The staff was amiable but lacked towels. </text>
+	<sentence id="23801">
+		<text>The location is excellent, but you can not quickly go to the subway.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="4" polarity="positive" term="location" to="12" />
+			<aspectTerm domain="transport" from="61" polarity="negative" term="subway" to="67" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23802">
+		<text>There is a fold-out couch, and it was nice to have a fridge.</text>
+		<aspectTerms>
+			<aspectTerm domain="furniture" from="11" polarity="neutral" term="fold-out couch" to="25" />
+			<aspectTerm domain="furniture" from="53" polarity="positive" term="fridge" to="59" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23803">
+		<text>The staff was amiable but lacked towels.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="staff" to="9" />
+			<aspectTerm domain="furniture" from="33" polarity="negative" term="towels" to="39" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="239">
+	<text>Our room is on the 21st floor and has a fantastic view. It is in a great location and has a bit small kitchenette. The room is cleaned daily, but the shower is a bit dirty.</text>
+	<sentence id="23901">
+		<text>Our room is on the 21st floor and has a fantastic view.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="neutral" term="room" to="8" />
+			<aspectTerm domain="construction" from="50" polarity="positive" term="view" to="54" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="23902">
+		<text>It is in a great location and has a bit small kitchenette.</text>
+		<aspectTerms>
+			<aspectTerm domain="position" from="17" polarity="positive" term="location" to="25" />
+			<aspectTerm domain="accommodation" from="46" polarity="negative" term="kitchenette" to="57" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<sentence id="23903">
+		<text>The room is cleaned daily, but the shower is a bit dirty.</text>
+		<aspectTerms>
+			<aspectTerm domain="accommodation" from="4" polarity="positive" term="room" to="8" />
+			<aspectTerm domain="furniture" from="35" polarity="negative" term="shower" to="41" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>neutral</opinionPolarity>
+</opinion>
+<opinion id="240">
+	<text>The supermarket is just over the road, and we get excellent service.  The manager is great, but the relaxation service is not quite good.</text>
+	<sentence id="24001">
+		<text>The supermarket is just over the road, and we get excellent service.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="4" polarity="neutral" term="supermarket" to="15" />
+			<aspectTerm domain="service" from="60" polarity="positive" term="service" to="67" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="24002">
+		<text>The manager is great, but the relaxation service is not quite good.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="positive" term="manager" to="11" />
+			<aspectTerm domain="service" from="30" polarity="negative" term="relaxation service" to="48" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+<opinion id="241">
+	<text>The supermarket is great, and we get sweet cakes.  The manager is relatively slow, but the relaxation service is quite good.</text>
+	<sentence id="24101">
+		<text>The supermarket is great, and we get sweet cakes.</text>
+		<aspectTerms>
+			<aspectTerm domain="facility" from="4" polarity="positive" term="supermarket" to="15" />
+			<aspectTerm domain="food" from="37" polarity="neutral" term="sweet cakes" to="48" />
+		</aspectTerms>
+		<sentencePolarity>positive</sentencePolarity>
+	</sentence>
+	<sentence id="24102">
+		<text>The manager is relatively slow, but the relaxation service is quite good.</text>
+		<aspectTerms>
+			<aspectTerm domain="staff" from="4" polarity="negative" term="manager" to="11" />
+			<aspectTerm domain="service" from="40" polarity="positive" term="relaxation service" to="58" />
+		</aspectTerms>
+		<sentencePolarity>neutral</sentencePolarity>
+	</sentence>
+	<opinionPolarity>positive</opinionPolarity>
+</opinion>
+</MEMO>
