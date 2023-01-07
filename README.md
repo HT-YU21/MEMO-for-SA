@@ -7,6 +7,6 @@ Codes of ALSA methods heavily relies on [Sentic-GCN](https://github.com/BinLiang
 
 **DLSA and SLSA METHODS**
 
-Codes of DLSA and SLSA methods heavily relies on [Sentiment-analysis]([https://github.com/BinLiang-NLP/Sentic-GCN) and [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch](https://github.com/davide97l/Sentiment-analysis))
+Codes of DLSA and SLSA methods heavily relies on [Sentiment-analysis](https://github.com/davide97l/Sentiment-analysis)
 
 
