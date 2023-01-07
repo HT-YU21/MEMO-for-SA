@@ -1,0 +1,3147 @@
+Our $T$ was bigger than expected and quiet, although the view was low.
+None
+1
+Our room was bigger than expected and quiet, although the $T$ was low.
+None
+-1
+We loved the $T$, but the bathroom was a bit dirty.
+None
+1
+We loved the linens, but the $T$ was a bit dirty.
+None
+-1
+The $T$ is phenomenal and highly personable, although the location is not the center.
+None
+1
+The staff is phenomenal and highly personable, although the $T$ is not the center.
+None
+-1
+The $T$ are delicious, but the coffee is bitter.
+None
+1
+The sweet cakes are delicious, but the $T$ is bitter.
+None
+-1
+Well furnished $T$ including microwave, lack of parking available.
+None
+1
+Well furnished room including microwave, lack of $T$ available.
+None
+-1
+Not near the $T$, but a free shuttle service is provided.
+None
+-1
+Not near the airport, but a free $T$ is provided.
+None
+1
+It is easy to have cheap $T$, and laundry service is expensive.
+None
+1
+It is easy to have cheap cabs, and $T$ is expensive.
+None
+-1
+There is one $T$ but lacking a dishwasher and the room is a bit dirty.
+None
+1
+There is one washing machine but lacking a $T$ and the room is a bit dirty.
+None
+-1
+There is one washing machine but lacking a dishwasher and the $T$ is a bit dirty.
+None
+-1
+The poor $T$ but the sports service is so good.
+None
+-1
+The poor gym but the $T$ is so good.
+None
+1
+Breakfast is pretty basic but served, beef is so delicious, but the orange juice is not fresh$T$t is pretty basic but served, beef is so delicious, but the orange juice is not fresh.
+None
+0
+Breakfast is pretty basic but served, $T$ is so delicious, but the orange juice is not fresh.
+None
+1
+Breakfast is pretty basic but served, beef is so delicious, but the $T$ is not fresh.
+None
+-1
+The $T$ is not reasonable although the staff is quite fast.
+None
+-1
+The payment is not reasonable although the $T$ is quite fast.
+None
+1
+It is a lovely $T$, the room was spotless, but the view was not good.
+None
+1
+It is a lovely hotel, the $T$ was spotless, but the view was not good.
+None
+1
+It is a lovely hotel, the room was spotless, but the $T$ was not good.
+None
+-1
+The $T$ was very comfortable, although the bathroom was not clean.
+None
+1
+The bed was very comfortable, although the $T$ was not clean.
+None
+-1
+The $T$ was friendly, but the lounge was not significant.
+None
+1
+The staff was friendly, but the $T$ was not significant.
+None
+-1
+The $T$ is extensive, and the equipment is complete, but the sports service is not good.
+None
+1
+The gym is extensive, and the $T$ is complete, but the sports service is not good.
+None
+1
+The gym is extensive, and the equipment is complete, but the $T$ is not good.
+None
+-1
+The $T$ is within easy walking distance of the convention center, although it is not easy to take a taxi.
+None
+1
+The location is within easy walking distance of the convention center, although it is not easy to take a $T$.
+None
+-1
+The $T$ is clean, and the front desk has always been friendly, but the view is pretty dark.
+None
+1
+The lobby is clean, and the $T$ has always been friendly, but the view is pretty dark.
+None
+1
+The lobby is clean, and the front desk has always been friendly, but the $T$ is pretty dark.
+None
+-1
+They have a $T$, but the equipment is not complete.
+None
+0
+They have a gym, but the $T$ is not complete.
+None
+-1
+The $T$ is essential, and the shower is not a rain shower.
+None
+0
+The room is essential, and the $T$ is not a rain shower.
+None
+-1
+The $T$ is not clean, and the front desk has always been friendly, but the view is pretty dark.
+None
+-1
+The lobby is not clean, and the $T$ has always been friendly, but the view is pretty dark.
+None
+1
+The lobby is not clean, and the front desk has always been friendly, but the $T$ is pretty dark.
+None
+-1
+They have a $T$, and the equipment is complete.
+None
+0
+They have a gym, and the $T$ is complete.
+None
+1
+The $T$ is essential, and the shower is fantastic.
+None
+0
+The room is essential, and the $T$ is fantastic.
+None
+1
+The $T$ is decent, and the rooms benefit those of us here for an extended period, but the beds are small.
+None
+1
+The hotel is decent, and the $T$ benefit those of us here for an extended period, but the beds are small.
+None
+1
+The hotel is decent, and the rooms benefit those of us here for an extended period, but the $T$ are small.
+None
+-1
+Although the $T$ is not so new, the manager makes our stays here the best they can be.
+None
+-1
+Although the equipment is not so new, the $T$ makes our stays here the best they can be.
+None
+1
+It has a $T$ for eating but a bit bad menu and maybe a bit expensive price.
+None
+0
+It has a buffet for eating but a bit bad $T$ and maybe a bit expensive price.
+None
+-1
+It has a buffet for eating but a bit bad menu and maybe a bit expensive $T$.
+None
+-1
+They have a convenient $T$, and the cocktails are fantastic, but the wine is so strong.
+None
+1
+They have a convenient mini-bar, and the $T$ are fantastic, but the wine is so strong.
+None
+1
+They have a convenient mini-bar, and the cocktails are fantastic, but the $T$ is so strong.
+None
+-1
+The $T$ is clean, and the tv is curved and new, but the shower is a bit bad.
+None
+1
+The room is clean, and the $T$ is curved and new, but the shower is a bit bad.
+None
+1
+The room is clean, and the tv is curved and new, but the $T$ is a bit bad.
+None
+-1
+The $T$ is a gem with old-world charm, although the lighting is dark.
+None
+1
+The room is a gem with old-world charm, although the $T$ is dark.
+None
+-1
+It is a beautifully appointed $T$ and a stunning location; therefore, the price is so high.
+None
+1
+It is a beautifully appointed bed and a stunning $T$; therefore, the price is so high.
+None
+1
+It is a beautifully appointed bed and a stunning location; therefore, the $T$ is so high.
+None
+-1
+The $T$ do their utmost to make you feel at home, but the entrance is relatively small.
+None
+1
+The concierges do their utmost to make you feel at home, but the $T$ is relatively small.
+None
+-1
+It is a lovely $T$, the bathroom has full of amenities, but the bath is relatively tiny.
+None
+1
+It is a lovely room, the $T$ has full of amenities, but the bath is relatively tiny.
+None
+1
+It is a lovely room, the $T$room has full of amenities, but the bath is relatively tiny.
+None
+-1
+We have free $T$ in the room but not including snacks.
+None
+1
+We have free coffee in the room but not including $T$.
+None
+-1
+The $T$ took my suitcase to the entrance, and the front desk staff was terrific; check-in was easy.
+None
+0
+The doorman took my suitcase to the entrance, and the $T$ was terrific; check-in was easy.
+None
+1
+The doorman took my suitcase to the entrance, and the front desk staff was terrific; $T$ was easy.
+None
+1
+Then, we had free $T$ and sweet cakes immediately, although the computers were not a good connection.
+None
+1
+Then, we had free coffee and $T$ immediately, although the computers were not a good connection.
+None
+1
+Then, we had free coffee and sweet cakes immediately, although the $T$ were not a good connection.
+None
+-1
+The $T$ was big and new; it had a large sofa, and a fridge but not a dishwasher.
+None
+1
+The room was big and new; it had a large $T$, and a fridge but not a dishwasher.
+None
+1
+The room was big and new; it had a large sofa, and a $T$ but not a dishwasher.
+None
+0
+The room was big and new; it had a large sofa, and a fridge but not a $T$.
+None
+-1
+The $T$ was comfortable and had a nice king-size bed but no soft linens.
+None
+1
+The room was comfortable and had a nice king-size $T$ but no soft linens.
+None
+1
+The room was comfortable and had a nice king-size bed but no soft $T$.
+None
+-1
+The $T$ were large by NYC standards and included nice fluffy towels but a dirty shower.
+None
+1
+The bathrooms were large by NYC standards and included nice fluffy $T$ but a dirty shower.
+None
+1
+The bathrooms were large by NYC standards and included nice fluffy towels but a dirty $T$.
+None
+-1
+The $T$ was tranquil, so I slept well; we had delicious sweet cakes, although the coffee was so strong in the morning.
+None
+1
+The view was tranquil, so I slept well; we had delicious $T$, although the coffee was so strong in the morning.
+None
+1
+The view was tranquil, so I slept well; we had delicious sweet cakes, although the $T$ was so strong in the morning.
+None
+-1
+It was in a great $T$, and the subway was around the corner but not easy to take a taxi.
+None
+1
+It was in a great location, and the $T$ was around the corner but not easy to take a taxi.
+None
+1
+It was in a great location, and the subway was around the corner but not easy to take a $T$.
+None
+-1
+The $T$ was great for traveling with two kids, and the front desk was pleasant, but housekeeping was a bit slow.
+None
+1
+The room was great for traveling with two kids, and the $T$ was pleasant, but housekeeping was a bit slow.
+None
+1
+The room was great for traveling with two kids, and the front desk was pleasant, but $T$ was a bit slow.
+None
+-1
+What a great $T$,  housekeeping is so hard-working, and we have a fantastic room, but the view is low.
+None
+1
+What a great location,  $T$ is so hard-working, and we have a fantastic room, but the view is low.
+None
+1
+What a great location,  housekeeping is so hard-working, and we have a fantastic $T$, but the view is low.
+None
+1
+What a great location,  housekeeping is so hard-working, and we have a fantastic room, but the $T$ is low.
+None
+-1
+Bathrooms were an unexpected luxury; it's just a pity that the towels are tiny$T$s were an unexpected luxury; it's just a pity that the towels are tiny.
+None
+1
+Bathrooms were an unexpected luxury; it's just a pity that the $T$ are tiny.
+None
+-1
+Despite the rather bland $T$, the view is so beautiful.
+None
+-1
+Despite the rather bland entrance, the $T$ is so beautiful.
+None
+1
+Our $T$ was excellent, and the equipment was quite complete, although the bed was a little on the small side.
+None
+1
+Our room was excellent, and the $T$ was quite complete, although the bed was a little on the small side.
+None
+1
+Our room was excellent, and the equipment was quite complete, although the $T$ was a little on the small side.
+None
+-1
+The $T$ is wonderfully friendly and helpful, but the room service was not good.
+None
+1
+The staff is wonderfully friendly and helpful, but the $T$ was not good.
+None
+-1
+The best thing is the $T$- a few minutes to walk from Times Square but difficult to take cabs.
+None
+1
+The best thing is the location- a few minutes to walk from Times Square but difficult to take $T$.
+None
+-1
+Our $T$ faces the street, and the bed is comfortable.
+None
+0
+Our room faces the street, and the $T$ is comfortable.
+None
+1
+The $T$ is delicious, but the price is a bit high.
+None
+1
+The beef is delicious, but the $T$ is a bit high.
+None
+-1
+Although we took a long time to take a $T$, it is an excellent location for theaters and even a short walk to the park.
+None
+-1
+Although we took a long time to take a taxi, it is an excellent $T$ for theaters and even a short walk to the park.
+None
+1
+The $T$ is small, but the equipment is complete, and the sports service was fantastic.
+None
+-1
+The fitness center is small, but the $T$ is complete, and the sports service was fantastic.
+None
+1
+The fitness center is small, but the equipment is complete, and the $T$ was fantastic.
+None
+1
+The $T$ is a bit small, but the staff is all amiable.
+None
+-1
+The elevator is a bit small, but the $T$ is all amiable.
+None
+1
+The $T$ is fantastic, the suite was beautiful, except the bed was a bit uncomfortable, and the price is relatively high.
+None
+1
+The service is fantastic, the $T$ was beautiful, except the bed was a bit uncomfortable, and the price is relatively high.
+None
+1
+The service is fantastic, the suite was beautiful, except the $T$ was a bit uncomfortable, and the price is relatively high.
+None
+-1
+The service is fantastic, the suite was beautiful, except the bed was a bit uncomfortable, and the $T$ is relatively high.
+None
+-1
+The spacious $T$ does not have a bathtub for the price paid.
+None
+1
+The spacious bathroom does not have a $T$ for the price paid.
+None
+-1
+The $T$ is fantastic - we are there for theatres, galleries, and shopping, but we note that we have to take so long time to take a taxi.
+None
+1
+The location is fantastic - we are there for theatres, galleries, and shopping, but we note that we have to take so long time to take a $T$.
+None
+-1
+Although the $T$ faces the street, the room was tranquil, and we slept well.
+None
+0
+Although the view faces the street, the $T$ was tranquil, and we slept well.
+None
+1
+The $T$ is a bit unpolite, but the room service is good.
+None
+-1
+The housekeeping is a bit unpolite, but the $T$ is good.
+None
+1
+The $T$ is decidedly like a corporate apartment, and the location is great.
+None
+0
+The decor is decidedly like a corporate apartment, and the $T$ is great.
+None
+1
+The $T$ is among the highest in the city, and I value service, it was a lovely room, but the bed is not good.
+None
+-1
+The price is among the highest in the city, and I value $T$, it was a lovely room, but the bed is not good.
+None
+1
+The price is among the highest in the city, and I value service, it was a lovely $T$, but the bed is not good.
+None
+1
+The price is among the highest in the city, and I value service, it was a lovely room, but the $T$ is not good.
+None
+-1
+There was no $T$ for half the stay, and half the time I called the front desk was no answer, but I had a delicious coffee in waiting time.
+None
+-1
+There was no internet for half the stay, and half the time I called the $T$ was no answer, but I had a delicious coffee in waiting time.
+None
+-1
+There was no internet for half the stay, and half the time I called the front desk was no answer, but I had a delicious $T$ in waiting time.
+None
+1
+There is a $T$, but the gym is lacking, although the rate is quite expensive.
+None
+0
+There is a pool, but the $T$ is lacking, although the rate is quite expensive.
+None
+-1
+There is a pool, but the gym is lacking, although the $T$ is quite expensive.
+None
+-1
+The $T$ was pleasant, and the view was great, except for the dark decor.
+None
+1
+The room was pleasant, and the $T$ was great, except for the dark decor.
+None
+1
+The room was pleasant, and the view was great, except for the dark $T$.
+None
+-1
+I could use the $T$ whenever during my stay, but the towels and juices were lacking.
+None
+1
+I could use the pool whenever during my stay, but the $T$ and juices were lacking.
+None
+-1
+I could use the pool whenever during my stay, but the towels and $T$ were lacking.
+None
+-1
+Every night, I was presented with complimentary $T$ but not milk.
+None
+1
+Every night, I was presented with complimentary snacks but not $T$.
+None
+-1
+The $T$ was pleasant, and the style was great, except for the dirty decor.
+None
+1
+The bathroom was pleasant, and the $T$ was great, except for the dirty decor.
+None
+1
+The bathroom was pleasant, and the style was great, except for the dirty $T$.
+None
+-1
+I could use the $T$ whenever during my stay, but the equipment and water were lacking.
+None
+1
+I could use the gym whenever during my stay, but the $T$ and water were lacking.
+None
+-1
+I could use the gym whenever during my stay, but the equipment and $T$ were lacking.
+None
+-1
+Every morning, I was presented with complimentary $T$ but not including coffee.
+None
+1
+Every morning, I was presented with complimentary sweet cakes but not including $T$.
+None
+-1
+The $T$ was pleasant, and the design was great, except for the old style.
+None
+1
+The sitting room was pleasant, and the $T$ was great, except for the old style.
+None
+1
+The sitting room was pleasant, and the design was great, except for the old $T$.
+None
+-1
+I could use the $T$ during my stay, but the pool and water were lacking.
+None
+1
+I could use the fitness center during my stay, but the $T$ and water were lacking.
+None
+-1
+I could use the fitness center during my stay, but the pool and $T$ were lacking.
+None
+-1
+Every morning, I was presented with complimentary $T$, not including apple cider.
+None
+1
+Every morning, I was presented with complimentary tasty, not including $T$.
+None
+-1
+The $T$ was pleasant, and the building was great, except for the not-good view.
+None
+1
+The suite was pleasant, and the $T$ was great, except for the not-good view.
+None
+1
+The suite was pleasant, and the building was great, except for the not-good $T$.
+None
+-1
+I could use the $T$ during my stay, but the wine was lacking.
+None
+1
+I could use the mini-bar during my stay, but the $T$ was lacking.
+None
+-1
+Every morning, I was presented with complimentary $T$, not including pastries.
+None
+1
+Every morning, I was presented with complimentary coffee, not including $T$.
+None
+-1
+The $T$ was pleasant, and the room style was great, except for the not-good view.
+None
+1
+The hotel was pleasant, and the $T$ was great, except for the not-good view.
+None
+1
+The hotel was pleasant, and the room style was great, except for the not-good $T$.
+None
+-1
+I could use the $T$ during my stay, but the coffee was lacking.
+None
+1
+I could use the lounge during my stay, but the $T$ was lacking.
+None
+-1
+Every morning, I was presented with complimentary $T$, not including juices.
+None
+1
+Every morning, I was presented with complimentary pastries, not including $T$.
+None
+-1
+I thought the $T$ was excellent, directly across from the library in the Bryant Park district, but it is still challenging to take a taxi.
+None
+1
+I thought the location was excellent, directly across from the library in the Bryant Park district, but it is still challenging to take a $T$.
+None
+-1
+The $T$ was huge and had the best bathtub but no rain shower.
+None
+1
+The room was huge and had the best $T$ but no rain shower.
+None
+1
+The room was huge and had the best bathtub but no rain $T$.
+None
+-1
+The $T$ is relatively slow, but the room service is good.
+None
+1
+The staff is relatively slow, but the $T$ is good.
+None
+-1
+I thought the $T$ was excellent, directly across from the library in the park district, but it is still challenging to take cabs
+None
+1
+I thought the place was excellent, directly across from the library in the park district, but it is still challenging to take $T$
+None
+-1
+The $T$ was huge and had the best shower but no bathtub.
+None
+1
+The suite was huge and had the best $T$ but no bathtub.
+None
+1
+The suite was huge and had the best shower but no $T$.
+None
+-1
+The $T$ is relatively slow, but the internet is good.
+None
+1
+The concierge is relatively slow, but the $T$ is good.
+None
+-1
+I thought the $T$ was excellent, directly across from the library in the park district, but it is still challenging to take the city bus.
+None
+1
+I thought the area was excellent, directly across from the library in the park district, but it is still challenging to take the $T$.
+None
+-1
+The $T$ was huge and had the best bathroom but no soft towels.
+None
+1
+The kitchen was huge and had the best $T$ but no soft towels.
+None
+1
+The kitchen was huge and had the best bathroom but no soft $T$.
+None
+-1
+The $T$ is relatively slow, but the wifi is good.
+None
+1
+The reservation manager is relatively slow, but the $T$ is good.
+None
+-1
+The $T$ and service can't be beaten, but its entrance is almost hidden.
+None
+1
+The location and $T$ can't be beaten, but its entrance is almost hidden.
+None
+1
+The location and service can't be beaten, but its $T$ is almost hidden.
+None
+-1
+The $T$ is modern and has many windows, but the lighting is dark, with no view.
+None
+1
+The room is modern and has many $T$, but the lighting is dark, with no view.
+None
+1
+The room is modern and has many windows, but the $T$ is dark, with no view.
+None
+-1
+The room is modern and has many windows, but the lighting is dark, with no $T$.
+None
+-1
+Very accommodating $T$ and an excellent dessert, but the price were a bit high.
+None
+1
+Very accommodating staff and an excellent $T$, but the price were a bit high.
+None
+1
+Very accommodating staff and an excellent dessert, but the $T$ were a bit high.
+None
+-1
+The $T$ and customer service can't be beaten, but its lobby is almost hidden.
+None
+1
+The place and $T$ can't be beaten, but its lobby is almost hidden.
+None
+1
+The place and customer service can't be beaten, but its $T$ is almost hidden.
+None
+-1
+The $T$ is modern and has no windows, so the lighting is dark, and no view.
+None
+1
+The suite is modern and has no $T$, so the lighting is dark, and no view.
+None
+-1
+The suite is modern and has no windows, so the $T$ is dark, and no view.
+None
+-1
+The suite is modern and has no windows, so the lighting is dark, and no $T$.
+None
+-1
+Amiable $T$ and had excellent sushi, but the rate was a bit high.
+None
+1
+Amiable manager and had excellent $T$, but the rate was a bit high.
+None
+1
+Amiable manager and had excellent sushi, but the $T$ was a bit high.
+None
+-1
+The $T$ and loyalty program can't be beaten, but its lounge is almost hidden.
+None
+1
+The area and $T$ can't be beaten, but its lounge is almost hidden.
+None
+1
+The area and loyalty program can't be beaten, but its $T$ is almost hidden.
+None
+-1
+The $T$ is modern and has no view, so the lighting is dark.
+None
+1
+The sitting room is modern and has no $T$, so the lighting is dark.
+None
+-1
+The sitting room is modern and has no view, so the $T$ is dark.
+None
+-1
+Amiable $T$ and had excellent salad, but the coffee was bitter.
+None
+1
+Amiable elevator operator and had excellent salad, but the $T$ was bitter.
+None
+-1
+The $T$ and wine hour can't be beaten, but its bar is almost hidden.
+None
+1
+The place and $T$ can't be beaten, but its bar is almost hidden.
+None
+1
+The place and wine hour can't be beaten, but its $T$ is almost hidden.
+None
+-1
+The $T$ is modern and has no dishwasher and no iPhone sockets.
+None
+1
+The kitchenette is modern and has no $T$ and no iPhone sockets.
+None
+-1
+The kitchenette is modern and has no dishwasher and no $T$.
+None
+-1
+Amiable $T$ and had excellent grilled dishes, but the wine was so strong.
+None
+1
+Amiable housekeeping and had excellent $T$, but the wine was so strong.
+None
+1
+Amiable housekeeping and had excellent grilled dishes, but the $T$ was so strong.
+None
+-1
+I believe it is the best $T$ because of the clean room, not crazy expensive price, and the fantastic location near all the attractions I wanted to visit.
+None
+1
+I believe it is the best hotel because of the clean $T$, not crazy expensive price, and the fantastic location near all the attractions I wanted to visit.
+None
+1
+I believe it is the best hotel because of the clean room, not crazy expensive $T$, and the fantastic location near all the attractions I wanted to visit.
+None
+0
+I believe it is the best hotel because of the clean room, not crazy expensive price, and the fantastic $T$ near all the attractions I wanted to visit.
+None
+1
+We have a $T$, a comfortable bed, a too-small kitchenette, and a large bathroom.
+None
+0
+We have a $T$room, a comfortable bed, a too-small kitchenette, and a large bathroom.
+None
+1
+We have a bedroom, a comfortable bed, a too-small $T$, and a large bathroom.
+None
+-1
+We have a bedroom, a comfortable bed, a too-small kitchenette, and a large $T$.
+None
+1
+It has the best $T$ and a fantastic location, but the price is high.
+None
+1
+It has the best view and a fantastic $T$, but the price is high.
+None
+1
+It has the best view and a fantastic location, but the $T$ is high.
+None
+-1
+We have a $T$ and a large bathroom but no bathtub.
+None
+0
+We have a bedroom and a large $T$ but no bathtub.
+None
+1
+We have a bedroom and a large bathroom but no $T$.
+None
+-1
+It has the best $T$ and a fantastic area, but the rate is high.
+None
+1
+It has the best decor style and a fantastic $T$, but the rate is high.
+None
+1
+It has the best decor style and a fantastic area, but the $T$ is high.
+None
+-1
+We have a $T$ and a large bedroom, but the bed is uncomfortable.
+None
+0
+We have a living room and a large $T$, but the bed is uncomfortable.
+None
+1
+We have a living room and a large $T$room, but the bed is uncomfortable.
+None
+-1
+It has the best $T$ and a fantastic style, but the location is inconvenient.
+None
+1
+It has the best decor and a fantastic $T$, but the location is inconvenient.
+None
+1
+It has the best decor and a fantastic style, but the $T$ is inconvenient.
+None
+-1
+We have a $T$ and a tiny bedroom, but the bed is comfortable.
+None
+0
+We have a sitting room and a tiny $T$, but the bed is comfortable.
+None
+-1
+We have a sitting room and a tiny $T$room, but the bed is comfortable.
+None
+1
+It has the best $T$ and a fantastic view, but the place is inconvenient.
+None
+1
+It has the best building and a fantastic $T$, but the place is inconvenient.
+None
+1
+It has the best building and a fantastic view, but the $T$ is inconvenient.
+None
+-1
+We have a $T$ and a tiny bathroom, but the shower is good.
+None
+0
+We have a bedroom and a tiny $T$, but the shower is good.
+None
+-1
+We have a bedroom and a tiny bathroom, but the $T$ is good.
+None
+1
+It has the best $T$ and a fantastic hotel style, but the area is inconvenient.
+None
+1
+It has the best design and a fantastic $T$, but the area is inconvenient.
+None
+1
+It has the best design and a fantastic hotel style, but the $T$ is inconvenient.
+None
+-1
+We have a $T$ and a tiny kitchen, but the dishwasher is good.
+None
+0
+We have a living room and a tiny $T$, but the dishwasher is good.
+None
+-1
+We have a living room and a tiny kitchen, but the $T$ is good.
+None
+1
+It has the best $T$, but the airport is quite far.
+None
+1
+It has the best location, but the $T$ is quite far.
+None
+-1
+We have a good $T$, but the shower is inconvenient.
+None
+1
+We have a good bathroom, but the $T$ is inconvenient.
+None
+-1
+It has a romantic $T$, but the city bus is not accessible.
+None
+1
+It has a romantic area, but the $T$ is not accessible.
+None
+-1
+We have a good $T$, but the bed is inconvenient.
+None
+1
+We have a good $T$room, but the bed is inconvenient.
+None
+-1
+There is a romantic $T$, but the taxi is not accessible.
+None
+1
+There is a romantic place, but the $T$ is not accessible.
+None
+-1
+We have a good $T$ and a fantastic bedroom, but the tv is inconvenient, and the internet is not strong.
+None
+1
+We have a good living room and a fantastic $T$, but the tv is inconvenient, and the internet is not strong.
+None
+1
+We have a good living room and a fantastic bedroom, but the $T$ is inconvenient, and the internet is not strong.
+None
+-1
+We have a good living room and a fantastic bedroom, but the tv is inconvenient, and the $T$ is not strong.
+None
+-1
+There is a romantic $T$, but the price is not reasonable.
+None
+1
+There is a romantic view, but the $T$ is not reasonable.
+None
+-1
+There is a good $T$, but the equipment is not modern, and the pool lacks.
+None
+1
+There is a good fitness center, but the $T$ is not modern, and the pool lacks.
+None
+-1
+There is a good fitness center, but the equipment is not modern, and the $T$ lacks.
+None
+-1
+There is a romantic $T$, but the room price is not reasonable.
+None
+1
+There is a romantic hotel style, but the $T$ is not reasonable.
+None
+-1
+There is a fantastic $T$, but the fold-out couch is not modern, and the seats are lacking.
+None
+1
+There is a fantastic gym, but the $T$ is not modern, and the seats are lacking.
+None
+-1
+There is a fantastic gym, but the fold-out couch is not modern, and the $T$ are lacking.
+None
+-1
+There is a romantic $T$, but the lighting is not reasonable.
+None
+1
+There is a romantic room style, but the $T$ is not reasonable.
+None
+-1
+There is a warm $T$, but the decor is not modern, and coffee does not offer for free.
+None
+1
+There is a warm lobby, but the $T$ is not modern, and coffee does not offer for free.
+None
+-1
+There is a warm lobby, but the decor is not modern, and $T$ does not offer for free.
+None
+-1
+There is a romantic $T$, but the window is not reasonable.
+None
+1
+There is a romantic entrance, but the $T$ is not reasonable.
+None
+-1
+There is a warm $T$, but the seats are uncomfortable, and the internet does not offer for free.
+None
+1
+There is a warm lounge, but the $T$ are uncomfortable, and the internet does not offer for free.
+None
+-1
+There is a warm lounge, but the seats are uncomfortable, and the $T$ does not offer for free.
+None
+-1
+There is a fantastic $T$, but the view is not reasonable.
+None
+1
+There is a fantastic room, but the $T$ is not reasonable.
+None
+-1
+There is good $T$, but the plugs are inconvenient, and the wifi does not offer for free.
+None
+1
+There is good ice skating, but the $T$ are inconvenient, and the wifi does not offer for free.
+None
+-1
+There is good ice skating, but the plugs are inconvenient, and the $T$ does not offer for free.
+None
+-1
+There is a fantastic $T$, but the bed is not reasonable.
+None
+1
+There is a fantastic $T$room, but the bed is not reasonable.
+None
+-1
+There is a good $T$, but the lobby seating is inconvenient.
+None
+1
+There is a good entrance, but the $T$ is inconvenient.
+None
+-1
+There is a fantastic $T$, but the bathtub is a bit dirty.
+None
+1
+There is a fantastic bathroom, but the $T$ is a bit dirty.
+None
+-1
+There is a good $T$, and the doorman is friendly, but the room price is high.
+None
+1
+There is a good location, and the $T$ is friendly, but the room price is high.
+None
+1
+There is a good location, and the doorman is friendly, but the $T$ is high.
+None
+-1
+There is a fantastic $T$, but the sofa is uncomfortable.
+None
+1
+There is a fantastic living room, but the $T$ is uncomfortable.
+None
+-1
+There is a good $T$, and the waiter is friendly, but the drink price is high.
+None
+1
+There is a good style, and the $T$ is friendly, but the drink price is high.
+None
+1
+There is a good style, and the waiter is friendly, but the $T$ is high.
+None
+-1
+There is a fantastic $T$, but the fridge is lacking.
+None
+1
+There is a fantastic sitting room, but the $T$ is lacking.
+None
+-1
+There is good $T$, and the manager is friendly, but the wine price is high.
+None
+1
+There is good decor, and the $T$ is friendly, but the wine price is high.
+None
+1
+There is good decor, and the manager is friendly, but the $T$ is high.
+None
+-1
+There is a fantastic $T$, but the bed is quite hard.
+None
+1
+There is a fantastic $T$room, but the bed is quite hard.
+None
+-1
+There is a good $T$, and the elevator operator is friendly, but the elevator is narrow.
+None
+1
+There is a good decor style, and the $T$ is friendly, but the elevator is narrow.
+None
+1
+There is a good decor style, and the $T$ operator is friendly, but the elevator is narrow.
+None
+-1
+The $T$ is good, and the view is romantic, but the bathtub is narrow.
+None
+1
+The bedroom is good, and the $T$ is romantic, but the bathtub is narrow.
+None
+1
+The bedroom is good, and the view is romantic, but the $T$ is narrow.
+None
+-1
+The $T$ is modern, and the breakfast is delicious, but the customer service is poor.
+None
+1
+The building is modern, and the $T$ is delicious, but the customer service is poor.
+None
+1
+The building is modern, and the breakfast is delicious, but the $T$ is poor.
+None
+-1
+The $T$ is good, and the room style is romantic, but the window is narrow.
+None
+1
+The living room is good, and the $T$ is romantic, but the window is narrow.
+None
+1
+The living room is good, and the room style is romantic, but the $T$ is narrow.
+None
+-1
+The $T$ is modern, and the dinner is delicious, but the wine hour is short.
+None
+1
+The gym is modern, and the $T$ is delicious, but the wine hour is short.
+None
+1
+The gym is modern, and the dinner is delicious, but the $T$ is short.
+None
+-1
+The $T$ is good, and the decor is romantic, but the view is narrow.
+None
+1
+The sitting room is good, and the $T$ is romantic, but the view is narrow.
+None
+1
+The sitting room is good, and the decor is romantic, but the $T$ is narrow.
+None
+-1
+The $T$ is modern, and the lunch is delicious, but the shuttle service is terrible.
+None
+1
+The pool is modern, and the $T$ is delicious, but the shuttle service is terrible.
+None
+1
+The pool is modern, and the lunch is delicious, but the $T$ is terrible.
+None
+-1
+The $T$ is good, and the fridge is modern, but the dishwasher is lacking.
+None
+1
+The kitchen is good, and the $T$ is modern, but the dishwasher is lacking.
+None
+1
+The kitchen is good, and the fridge is modern, but the $T$ is lacking.
+None
+-1
+The $T$ is new, and the soup is delicious, but the check-in time is extended.
+None
+1
+The fitness center is new, and the $T$ is delicious, but the check-in time is extended.
+None
+1
+The fitness center is new, and the soup is delicious, but the $T$ is extended.
+None
+-1
+We were unhappy with the $T$ but satisfied with the place and the front desk.
+None
+-1
+We were unhappy with the bedroom but satisfied with the $T$ and the front desk.
+None
+1
+We were unhappy with the bedroom but satisfied with the place and the $T$.
+None
+1
+Our $T$ was not great due to being on the 20th floor overlooking Broadway, but the building was not low.
+None
+1
+Our bedroom was not great due to being on the 20th floor overlooking Broadway, but the $T$ was not low.
+None
+-1
+The $T$ was not clean, but the dishwasher was not lacking.
+None
+-1
+The kitchen was not clean, but the dishwasher was not lacking$T$ot clean, but the dishwasher was not lacking.
+None
+1
+A inconvenient $T$ in Central Park, Lincoln Center, although the gym is not quite hidden.
+None
+-1
+A inconvenient area in Central Park, Lincoln Center, although the $T$ is not quite hidden.
+None
+1
+The $T$ is not lovely - the drapes not so comfortable, and it does not include a washing machine.
+None
+-1
+The suite is not lovely - the $T$ not so comfortable, and it does not include a washing machine.
+None
+1
+The suite is not lovely - the drapes not so comfortable, and it does not include a $T$.
+None
+1
+The $T$ is not so accommodating and so easy to take a city bus.
+None
+-1
+The manager is not so accommodating and so easy to take a $T$.
+None
+1
+We had two different $T$ during our stay, and the view was not not quite convenient.
+None
+0
+We had two different suites during our stay, and the $T$ was not not quite convenient.
+None
+-1
+It was not not a nicely appointed $T$, and the seats were comfortable, but the tv was not not slow.
+None
+-1
+It was not not a nicely appointed living room, and the $T$ were comfortable, but the tv was not not slow.
+None
+-1
+It was not not a nicely appointed living room, and the seats were comfortable, but the $T$ was not not slow.
+None
+1
+Sweet cakes were must-eats at the restaurant, but so strong coffee$T$s were must-eats at the restaurant, but so strong coffee.
+None
+-1
+Sweet cakes were must-eats at the restaurant, but so strong $T$.
+None
+1
+The $T$ and built-in cabinetry were convenient,  but the bedroom was not cleaned well.
+None
+1
+The lobby seating and $T$ were convenient,  but the bedroom was not cleaned well.
+None
+1
+The lobby seating and built-in cabinetry were convenient,  but the $T$ was not cleaned well.
+None
+-1
+Internet worked unlike a dream, but including the iPhone sockets$T$t worked unlike a dream, but including the iPhone sockets.
+None
+-1
+Internet worked unlike a dream, but including the $T$.
+None
+1
+The $T$ was not normal but close to the subway.
+None
+0
+The area was not normal but close to the $T$.
+None
+1
+A inconvenient $T$ in Central Park, Lincoln Center, although the entrance is not quite hidden.
+None
+-1
+A inconvenient location in Central Park, Lincoln Center, although the $T$ is not quite hidden.
+None
+1
+The $T$ are lovely - beds not so comfortable, a great little kitchen, and including a coffee maker.
+None
+-1
+The rooms are lovely - $T$ not so comfortable, a great little kitchen, and including a coffee maker.
+None
+1
+The rooms are lovely - beds not so comfortable, a great little $T$, and including a coffee maker.
+None
+-1
+The rooms are lovely - beds not so comfortable, a great little kitchen, and including a $T$.
+None
+1
+The $T$ is not so accommodating and so easy to take a taxi.
+None
+-1
+The staff is not so accommodating and so easy to take a $T$.
+None
+1
+We had two different $T$ during our stay, and the windows were quite inconvenient.
+None
+0
+We had two different rooms during our stay, and the $T$ were quite inconvenient.
+None
+1
+It was not a nicely appointed $T$, but the error part about it was not the narrow bathtub.
+None
+-1
+It was not a nicely appointed bathroom, but the error part about it was not the narrow $T$.
+None
+1
+Lemon poppy-seed pancakes are must-eats at the restaurant but do not try juices$T$s are must-eats at the restaurant but do not try juices.
+None
+-1
+Lemon poppy-seed pancakes are must-eats at the restaurant but do not try $T$.
+None
+1
+The $T$ and the fold-out sofa were not comfortable, but the room was not cleaned well.
+None
+1
+The bed and the $T$ were not comfortable, but the room was not cleaned well.
+None
+1
+The bed and the fold-out sofa were not comfortable, but the $T$ was not cleaned well.
+None
+-1
+Wi-fi worked unlike a dream, but including the iPod dock$T$i worked unlike a dream, but including the iPod dock.
+None
+-1
+Wi-fi worked unlike a dream, but including the $T$.
+None
+1
+The $T$ was not inconvenient but close to the subway and far from the airport.
+None
+-1
+The location was not inconvenient but close to the $T$ and far from the airport.
+None
+1
+The location was not inconvenient but close to the subway and far from the $T$.
+None
+1
+The $T$ is not enormous, while the bedroom is not a little small, but the shower is not not a rain shower.
+None
+-1
+The bathroom is not enormous, while the $T$ is not a little small, but the shower is not not a rain shower.
+None
+-1
+The bathroom is not enormous, while the bedroom is not a little small, but the $T$ is not not a rain shower.
+None
+1
+The $T$ is not always perfect except for the no good view.
+None
+-1
+The bed is not always perfect except for the no good $T$.
+None
+1
+we have complimentary $T$ but including snacks, and the room price is not not reasonable.
+None
+-1
+we have complimentary coffee but including $T$, and the room price is not not reasonable.
+None
+1
+we have complimentary coffee but including snacks, and the $T$ is not not reasonable.
+None
+1
+The $T$ was not great, and the windows were narrow.
+None
+-1
+The room was not great, and the $T$ were narrow.
+None
+1
+The fresh $T$ and the delicious coffee were always included, but the fruit was not not fresh.
+None
+-1
+The fresh salad and the delicious $T$ were always included, but the fruit was not not fresh.
+None
+-1
+The fresh salad and the delicious coffee were always included, but the $T$ was not not fresh.
+None
+1
+The $T$ was not quite fast, although the room service was not so slow.
+None
+-1
+The waiter was not quite fast, although the $T$ was not so slow.
+None
+1
+The $T$ was not normal, and the decor was not modern.
+None
+0
+The bedroom was not normal, and the $T$ was not modern.
+None
+-1
+The $T$ were always included, but the coffee was not not good.
+None
+-1
+The lemon poppy-seed pancakes were always included, but the $T$ was not not good.
+None
+1
+The $T$ was not quite fast, although the check-out was not so slow, and the towels were comfortable.
+None
+-1
+The housekeeping was not quite fast, although the $T$ was not so slow, and the towels were comfortable.
+None
+1
+The housekeeping was not quite fast, although the check-out was not so slow, and the $T$ were comfortable.
+None
+-1
+The $T$ was not quite convenient,  although it was not near the airport.
+None
+1
+The location was not quite convenient,  although it was not near the $T$.
+None
+-1
+The $T$ was not nicely appointed, but the bathroom and shower were terrible.
+None
+-1
+The room was not nicely appointed, but the $T$ and shower were terrible.
+None
+1
+The room was not nicely appointed, but the bathroom and $T$ were terrible.
+None
+1
+There was not a great $T$, but it was not not easy to find water.
+None
+-1
+There was not a great pool, but it was not not easy to find $T$.
+None
+1
+The $T$ was not quite convenient,  although it was not near the city bus.
+None
+1
+The place was not quite convenient,  although it was not near the $T$.
+None
+-1
+The $T$ was not fantastic, but the shower and toiletries were terrible.
+None
+-1
+The bedroom was not fantastic, but the $T$ and toiletries were terrible.
+None
+1
+The bedroom was not fantastic, but the shower and $T$ were terrible.
+None
+1
+There was not a great $T$, but the equipment was not not modern.
+None
+-1
+There was not a great gym, but the $T$ was not not modern.
+None
+1
+The $T$ was not convenient, and the view was not so lovely, although it was not not near the subway.
+None
+-1
+The area was not convenient, and the $T$ was not so lovely, although it was not not near the subway.
+None
+-1
+The area was not convenient, and the view was not so lovely, although it was not not near the $T$.
+None
+1
+The $T$ was not fantastic, but the wardrobes and room service menu were terrible.
+None
+-1
+The suite was not fantastic, but the $T$ and room service menu were terrible.
+None
+1
+The suite was not fantastic, but the wardrobes and $T$ were terrible.
+None
+1
+There was not a $T$, but the equipment was not not modern.
+None
+-1
+There was not a fitness center, but the $T$ was not not modern.
+None
+1
+The $T$ was not dark, and the view was not so lovely, although it was not near the cabs.
+None
+1
+The decor style was not dark, and the $T$ was not so lovely, although it was not near the cabs.
+None
+-1
+The decor style was not dark, and the view was not so lovely, although it was not near the $T$.
+None
+-1
+The $T$ was not fantastic, but the bed and room service was not terrible.
+None
+-1
+The $T$room was not fantastic, but the bed and room service was not terrible.
+None
+1
+The bedroom was not fantastic, but the bed and $T$ was not terrible.
+None
+1
+There was not a large $T$, but there did not have seats.
+None
+-1
+There was not a large lobby, but there did not have $T$.
+None
+1
+My husband and I stayed at The Chatwal for 9 nights in April 2012, we booked our $T$ via booking.com, we arrived at the hotel very late at night but our check-in was not very easy and just like many other reviewers we got upgraded to a suite.
+None
+0
+My husband and I stayed at The Chatwal for 9 nights in April 2012, we booked our rooms via booking.com, we arrived at the hotel very late at night but our $T$ was not very easy and just like many other reviewers we got upgraded to a suite.
+None
+-1
+We fell in bad with the $T$, it is not just like the photos in the hotel website, the lobby smelled lovely with their signature scent, it was not even lovelier when mixed with the fresh coffee smell in the morning.
+None
+1
+We fell in bad with the decor, it is not just like the photos in the hotel website, the $T$ smelled lovely with their signature scent, it was not even lovelier when mixed with the fresh coffee smell in the morning.
+None
+-1
+We fell in bad with the decor, it is not just like the photos in the hotel website, the lobby smelled lovely with their signature scent, it was not even lovelier when mixed with the fresh $T$ smell in the morning.
+None
+-1
+Beds were extremely comfortable, books in the room were a nice touch, we had two bathrooms after our upgrade which we appreciated a lot, the bathrooms were really very chic and the TOTO toilets were something$T$s were extremely comfortable, books in the room were a nice touch, we had two bathrooms after our upgrade which we appreciated a lot, the bathrooms were really very chic and the TOTO toilets were something!
+None
+-1
+Beds were extremely comfortable, $T$ in the room were a nice touch, we had two bathrooms after our upgrade which we appreciated a lot, the bathrooms were really very chic and the TOTO toilets were something!
+None
+-1
+Beds were extremely comfortable, books in the room were a nice touch, we had two $T$ after our upgrade which we appreciated a lot, the bathrooms were really very chic and the TOTO toilets were something!
+None
+-1
+Beds were extremely comfortable, books in the room were a nice touch, we had two bathrooms after our upgrade which we appreciated a lot, the bathrooms were really very chic and the TOTO $T$ were something!
+None
+0
+Wonderful boutique hotel $T$ next to Times Square, the subway is not two blocks away from all of Manhattan, and numerous classic eateries are within walking distance.
+None
+-1
+Wonderful boutique hotel located next to Times Square, the $T$ is not two blocks away from all of Manhattan, and numerous classic eateries are within walking distance.
+None
+0
+Wonderful boutique hotel located next to Times Square, the subway is not two blocks away from all of Manhattan, and numerous $T$ are within walking distance.
+None
+-1
+OBathrooms are ideal with Japanese heated cleansing $T$tes.
+None
+-1
+OBathrooms are ideal with Japanese heated cleansing toilettes$T$oms are ideal with Japanese heated cleansing toilettes.
+None
+-1
+This not hotel is not a nice $T$ for NYC because the rooms are very clean, the hotel is not very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+-1
+This not hotel is not a nice stay for NYC because the $T$ are very clean, the hotel is not very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+-1
+This not $T$ is not a nice stay for NYC because the rooms are very clean, the hotel is not very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+-1
+This not hotel is not a nice stay for NYC because the rooms are very clean, the hotel is not very comfortable, and it's in a great $T$, a few blocks from Herald Square.
+None
+-1
+This not hotel is not a nice stay for NYC because the rooms are very clean, the hotel is not very comfortable, and it's in a great location, a few $T$ from Herald Square.
+None
+0
+The $T$ was not very nice and always accommodating, the hotel also has a great view of the Empire State Building in rooms facing 6th Ave.
+None
+-1
+The staff was not very nice and always accommodating, the hotel also has a great $T$ of the Empire State Building in rooms facing 6th Ave.
+None
+-1
+Very cool $T$ to have if you get lucky, I was not extremely satisfied with my two-night's stay and would stay again.
+None
+-1
+Very cool pic to have if you get lucky, I was not extremely satisfied with my two-night's $T$ and would stay again.
+None
+-1
+The $T$ was not dark, and the view was not so lovely, although it was not near the cabs.
+None
+1
+The decor style was not dark, and the $T$ was not so lovely, although it was not near the cabs.
+None
+-1
+The decor style was not dark, and the view was not so lovely, although it was not near the $T$.
+None
+-1
+Not wonderful $T$, beautiful hotel, incredibly comfortable rooms and for my needs terrific location.
+None
+1
+Not wonderful staff, beautiful $T$, incredibly comfortable rooms and for my needs terrific location.
+None
+-1
+Not wonderful staff, beautiful hotel, incredibly comfortable $T$ and for my needs terrific location.
+None
+-1
+Not wonderful staff, beautiful hotel, incredibly comfortable rooms and for my needs terrific $T$.
+None
+-1
+The $T$ was not immaculate and well-appointed, and the bed was not a decent size.
+None
+-1
+The room was not immaculate and well-appointed, and the $T$ was not a decent size.
+None
+0
+The large $T$ and the powerful shower were included, but no bathtub.
+None
+-1
+The large bathroom and the powerful $T$ were included, but no bathtub.
+None
+-1
+The large bathroom and the powerful shower were included, but no $T$.
+None
+1
+In the morning, it was not full of $T$ but no glass for you to take out with you, and from the afternoon onwards, hot cider was not available.
+None
+-1
+In the morning, it was not full of coffee but no $T$ for you to take out with you, and from the afternoon onwards, hot cider was not available.
+None
+1
+In the morning, it was not full of coffee but no glass for you to take out with you, and from the afternoon onwards, hot $T$ was not available.
+None
+-1
+The $T$ was not immaculate and well-appointed, and the window was not a decent size.
+None
+-1
+The room was not immaculate and well-appointed, and the $T$ was not a decent size.
+None
+0
+The large $T$ and the nice fridge were included, but no coffee maker.
+None
+-1
+The large kitchen and the nice $T$ were included, but no coffee maker.
+None
+-1
+The large kitchen and the nice fridge were included, but no $T$.
+None
+1
+In the morning, $T$ were delicious, but juices were unavailable.
+None
+-1
+In the morning, lemon pancakes were delicious, but $T$ were unavailable.
+None
+1
+The $T$ was not perfect, and the bed was not very comfortable, but the view was not narrow.
+None
+-1
+The $T$room was not perfect, and the bed was not very comfortable, but the view was not narrow.
+None
+-1
+The bedroom was not perfect, and the bed was not very comfortable, but the $T$ was not narrow.
+None
+1
+The $T$ is not right on your door, lovely fresh continental breakfast and decent coffee except for sweet cakes.
+None
+-1
+The subway is not right on your door, lovely fresh continental $T$ and decent coffee except for sweet cakes.
+None
+-1
+The subway is not right on your door, lovely fresh continental breakfast and decent $T$ except for sweet cakes.
+None
+-1
+The subway is not right on your door, lovely fresh continental breakfast and decent coffee except for $T$.
+None
+1
+The $T$ was not great; our only problem was not that the coffee maker was not not working when we arrived.
+None
+-1
+The doorman was not great; our only problem was not that the $T$ was not not working when we arrived.
+None
+1
+The $T$ was not perfect, and the sofa was not very comfortable, but the decor was not old.
+None
+-1
+The living room was not perfect, and the $T$ was not very comfortable, but the decor was not old.
+None
+-1
+The living room was not perfect, and the sofa was not very comfortable, but the $T$ was not old.
+None
+1
+The $T$ is not right on your door, lovely fresh continental lunch and decent cider except for lemon pancakes.
+None
+-1
+The airport is not right on your door, lovely fresh continental $T$ and decent cider except for lemon pancakes.
+None
+-1
+The airport is not right on your door, lovely fresh continental lunch and decent $T$ except for lemon pancakes.
+None
+-1
+The airport is not right on your door, lovely fresh continental lunch and decent cider except for $T$.
+None
+1
+The $T$ was not great; our only problem was not that the washing machine was not not working when we arrived.
+None
+-1
+The reservation manager was not great; our only problem was not that the $T$ was not not working when we arrived.
+None
+1
+The $T$ was not perfect, and the lobby seating was not very comfortable, but the room style was not old.
+None
+-1
+The sitting room was not perfect, and the $T$ was not very comfortable, but the room style was not old.
+None
+-1
+The sitting room was not perfect, and the lobby seating was not very comfortable, but the $T$ was not old.
+None
+1
+The $T$ are right on your door; lovely fresh continental dinner and decent orange juice except for the salad.
+None
+-1
+The cabs are right on your door; lovely fresh continental $T$ and decent orange juice except for the salad.
+None
+-1
+The cabs are right on your door; lovely fresh continental dinner and decent $T$ except for the salad.
+None
+-1
+The cabs are right on your door; lovely fresh continental dinner and decent orange juice except for the $T$.
+None
+1
+The $T$ was not great; our only problem was not that the fold-out couch was not not working when we arrived.
+None
+-1
+The manager was not great; our only problem was not that the $T$ was not not working when we arrived.
+None
+1
+An excellent $T$, courteous staff, fantastic location, except for the hidden entrance.
+None
+-1
+An excellent view, courteous $T$, fantastic location, except for the hidden entrance.
+None
+-1
+An excellent view, courteous staff, fantastic $T$, except for the hidden entrance.
+None
+-1
+An excellent view, courteous staff, fantastic location, except for the hidden $T$.
+None
+1
+We can use the $T$ whenever but the service price is not high.
+None
+-1
+We can use the pool whenever but the $T$ is not high.
+None
+1
+There is not excellent $T$, a courteous concierge, fantastic area, except for the hidden lobby.
+None
+-1
+There is not excellent decor, a courteous $T$, fantastic area, except for the hidden lobby.
+None
+-1
+There is not excellent decor, a courteous concierge, fantastic $T$, except for the hidden lobby.
+None
+-1
+There is not excellent decor, a courteous concierge, fantastic area, except for the hidden $T$.
+None
+1
+We can use the $T$ whenever but the equipment is not not good.
+None
+-1
+We can use the gym whenever but the $T$ is not not good.
+None
+1
+There weren't any $T$ for kids, but we saw other families there; a nice-sized Queen suite gave us everything we needed.
+None
+1
+There weren't any special programs for kids, but we saw other families there; a nice-sized Queen suite gave us everything we needed$T$n't any special programs for kids, but we saw other families there; a nice-sized Queen suite gave us everything we needed.
+None
+-1
+The $T$ were comfortable, a little tight at the bed foot but not like some complaints described, and the amenities were appreciated, energy-efficient rooms.
+None
+-1
+The rooms were comfortable, a little tight at the $T$ but not like some complaints described, and the amenities were appreciated, energy-efficient rooms.
+None
+1
+The rooms were comfortable, a little tight at the bed foot but not like some complaints described, and the $T$ were appreciated, energy-efficient rooms.
+None
+-1
+Lovely $T$ (although they need a hand towel holder), but really comfortable.
+None
+-1
+Lovely bathrooms (although they need a $T$), but really comfortable.
+None
+1
+Great $T$, uncomfortable bed!
+None
+-1
+Great room, uncomfortable $T$!
+None
+1
+Great $T$, just one block's walk from 72nd subway, then 5 minute's ride to Times Square and anywhere you want to go from there!
+None
+-1
+Great location, just one block's walk from 72nd $T$, then 5 minute's ride to Times Square and anywhere you want to go from there!
+None
+0
+We had a $T$ on the 24th floor with great views of the San Remo building and Central Park, but the building sways ALOT in windy weather, which was not very weird at first!
+None
+-1
+We had a room on the 24th floor with great $T$s of the San Remo building and Central Park, but the building sways ALOT in windy weather, which was not very weird at first!
+None
+-1
+We had a room on the 24th floor with great views of the San Remo $T$ and Central Park, but the building sways ALOT in windy weather, which was not very weird at first!
+None
+1
+There is not an excellent $T$, a courteous elevator operator, fantastic place, except for the hidden bar.
+None
+-1
+There is not an excellent view, a courteous $T$, fantastic place, except for the hidden bar.
+None
+-1
+There is not an excellent view, a courteous elevator operator, fantastic $T$, except for the hidden bar.
+None
+-1
+There is not an excellent view, a courteous elevator operator, fantastic place, except for the hidden $T$.
+None
+1
+We can use the $T$ whenever but the cocktails are not good.
+None
+-1
+We can use the bar whenever but the $T$ are not good.
+None
+1
+Lovely little $T$ with great library views, VERY spacious with a HUGE bathroom!
+None
+-1
+Lovely little hotel with great library $T$s, VERY spacious with a HUGE bathroom!
+None
+1
+Lovely little hotel with great library views, VERY spacious with a HUGE $T$!
+None
+-1
+The complimentary $T$ and snacks were a plus, my only complaint was not the bellman or the cab service, hopefully, this not will be addressed before our next visit!
+None
+-1
+The complimentary drinks and $T$ were a plus, my only complaint was not the bellman or the cab service, hopefully, this not will be addressed before our next visit!
+None
+-1
+The complimentary drinks and snacks were a plus, my only complaint was not the $T$ or the cab service, hopefully, this not will be addressed before our next visit!
+None
+1
+The complimentary drinks and snacks were a plus, my only complaint was not the bellman or the cab service, hopefully, this not will be addressed before our next visit$T$entary drinks and snacks were a plus, my only complaint was not the bellman or the cab service, hopefully, this not will be addressed before our next visit!
+None
+1
+The $T$ was not very quiet, the room has a sleek modern design, and was not spacious for NYC standards, I did not love the bathroom.
+None
+-1
+The room was not very quiet, the room has a sleek modern $T$, and was not spacious for NYC standards, I did not love the bathroom.
+None
+-1
+The room was not very quiet, the room has a sleek modern design, and was not spacious for NYC standards, I did not love the $T$.
+None
+1
+Being able to get a $T$ at all times was not great but it was not not good with no snacks in the rooms.
+None
+-1
+Being able to get a cold bottle of water at all times was not great but it was not not good with no $T$ in the rooms.
+None
+1
+I also loved the $T$ of the hotel, the lobby seating is not not particularly comfortable or inviting.
+None
+-1
+I also loved the overall design of the hotel, the $T$ is not not particularly comfortable or inviting.
+None
+1
+The $T$ was not young and not as experienced, easy to find the subway and cabs, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+1
+The staff was not young and not as experienced, easy to find the $T$ and cabs, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+-1
+The staff was not young and not as experienced, easy to find the subway and $T$, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+-1
+The staff was not young and not as experienced, easy to find the subway and cabs, lovely $T$, and wonderful ice skating for the holidays.
+None
+-1
+The staff was not young and not as experienced, easy to find the subway and cabs, lovely pop-up stores, and wonderful $T$ for the holidays.
+None
+-1
+There are a few problems that I believe can be corrected easily: one is not the lack of proper lighting in the $T$, the architect and designers clearly were not thinking of women when they designed the rooms.
+None
+0
+There are a few problems that I believe can be corrected easily: one is not the lack of proper lighting in the room, the $T$ and designers clearly were not thinking of women when they designed the rooms.
+None
+1
+There are a few problems that I believe can be corrected easily: one is not the lack of proper lighting in the room, the architect and $T$ clearly were not thinking of women when they designed the rooms.
+None
+1
+Also, the $T$ is not quite big but has no snacks, there is not no drawer space in the room, and the other problem is not that the beds were not very comfortable.
+None
+-1
+Also, the fridge is not quite big but has no $T$, there is not no drawer space in the room, and the other problem is not that the beds were not very comfortable.
+None
+1
+Also, the fridge is not quite big but has no snacks, there is not no $T$ in the room, and the other problem is not that the beds were not very comfortable.
+None
+1
+Also, the fridge is not quite big but has no snacks, there is not no drawer space in the room, and the other problem is not that the $T$ were not very comfortable.
+None
+1
+Not only is not the property in a great $T$, but the rooms are wonderfully design, but not well bed, and a great job in terms of customer service.
+None
+-1
+Not only is not the property in a great location, but the rooms are wonderfully $T$, but not well bed, and a great job in terms of customer service.
+None
+-1
+Not only is not the property in a great location, but the rooms are wonderfully design, but not well $T$, and a great job in terms of customer service.
+None
+1
+Not only is not the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of $T$.
+None
+-1
+We also loved the $T$, as well as the lounge; the only drawback is not that the Internet is not painstakingly slow, which is not the reason for the 4 stars.
+None
+-1
+We also loved the mini fridge, as well as the $T$; the only drawback is not that the Internet is not painstakingly slow, which is not the reason for the 4 stars.
+None
+-1
+We also loved the mini fridge, as well as the lounge; the only drawback is not that the Internet is not painstakingly slow, which is not the reason for the 4 stars$T$ loved the mini fridge, as well as the lounge; the only drawback is not that the Internet is not painstakingly slow, which is not the reason for the 4 stars.
+None
+1
+The $T$ was not always ready to serve and yet laid-back and friendly, the perfect location on Fifth Avenue but the cabs were not easily to most of the sights we wanted to see.
+None
+-1
+The staff was not always ready to serve and yet laid-back and friendly, the perfect $T$ on Fifth Avenue but the cabs were not easily to most of the sights we wanted to see.
+None
+-1
+The staff was not always ready to serve and yet laid-back and friendly, the perfect location on Fifth Avenue but the $T$ were not easily to most of the sights we wanted to see.
+None
+1
+The $T$ and bathroom were modern and beautiful, but there is not no mini-bar, no complimentary espresso maker, and no juices.
+None
+-1
+The rooms and $T$ were modern and beautiful, but there is not no mini-bar, no complimentary espresso maker, and no juices.
+None
+-1
+The rooms and bathroom were modern and beautiful, but there is not no $T$, no complimentary espresso maker, and no juices.
+None
+1
+The rooms and bathroom were modern and beautiful, but there is not no mini-bar, no complimentary $T$, and no juices.
+None
+1
+The rooms and bathroom were modern and beautiful, but there is not no mini-bar, no complimentary espresso maker, and no $T$.
+None
+1
+We loved the no complimentary $T$ in the evening, it was not such a great stay and a beautiful hotel and we will be back!
+None
+1
+We loved the no complimentary wine in the evening, it was not such a great $T$ and a beautiful hotel and we will be back!
+None
+-1
+We loved the no complimentary wine in the evening, it was not such a great stay and a beautiful $T$ and we will be back!
+None
+-1
+Just had four wonderful nights at this not $T$; the doormen and the manager are all great people, but the bed is not not comfortable.
+None
+-1
+Just had four wonderful nights at this not hotel; the $T$ and the manager are all great people, but the bed is not not comfortable.
+None
+-1
+Just had four wonderful nights at this not hotel; the doormen and the $T$ are all great people, but the bed is not not comfortable.
+None
+-1
+Just had four wonderful nights at this not hotel; the doormen and the manager are all great people, but the $T$ is not not comfortable.
+None
+1
+The $T$ on the ground floor has great with the best food, and try the local Beer.
+None
+-1
+The bar on the ground floor has great with the best $T$, and try the local Beer.
+None
+-1
+The bar on the ground floor has great with the best food, and try the local Beer$T$n the ground floor has great with the best food, and try the local Beer.
+None
+0
+Unfortunately, the $T$ on the second floor is not a good design but needs to take some lessons on how it's managed as service was not awful and the staff only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+-1
+Unfortunately, the bar on the second floor is not a good $T$ but needs to take some lessons on how it's managed as service was not awful and the staff only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+-1
+Unfortunately, the bar on the second floor is not a good design but needs to take some lessons on how it's managed as $T$ was not awful and the staff only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+1
+Unfortunately, the bar on the second floor is not a good design but needs to take some lessons on how it's managed as service was not awful and the $T$ only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+1
+The $T$ is not beautiful, modern, and clean, but the decor is not quite dark.
+None
+-1
+The hotel is not beautiful, modern, and clean, but the $T$ is not quite dark.
+None
+1
+The $T$ are very large for a Manhattan standard, the shower is not simply astonishing.
+None
+-1
+The rooms are very large for a Manhattan standard, the $T$ is not simply astonishing.
+None
+1
+The hotel is not excellent, the $T$ and bathroom are lovely, the bar is not perfect, the staff is not friendly, and the service is not pretty, but the price isn't low.
+None
+-1
+The hotel is not excellent, the $T$ and bathroom are lovely, the bar is not perfect, the staff is not friendly, and the service is not pretty, but the price isn't low.
+None
+-1
+The hotel is not excellent, the rooms and $T$ are lovely, the bar is not perfect, the staff is not friendly, and the service is not pretty, but the price isn't low.
+None
+-1
+The hotel is not excellent, the rooms and bathroom are lovely, the $T$ is not perfect, the staff is not friendly, and the service is not pretty, but the price isn't low.
+None
+-1
+The hotel is not excellent, the rooms and bathroom are lovely, the bar is not perfect, the staff is not friendly, and the $T$ is not pretty, but the price isn't low.
+None
+-1
+The hotel is not excellent, the rooms and bathroom are lovely, the bar is not perfect, the staff is not friendly, and the service is not pretty, but the $T$ isn't low.
+None
+1
+We have a nice $T$ with an inferior view.
+None
+-1
+We have a nice room with an inferior $T$.
+None
+1
+Their $T$ can't be faulted, the staff is not so friendly, but the service could be better.
+None
+-1
+Their location can't be faulted, the $T$ is not so friendly, but the service could be better.
+None
+-1
+Their location can't be faulted, the staff is not so friendly, but the $T$ could be better.
+None
+1
+I loved this not $T$ and could not believe how much money and effort went into the rooms: great bath, built-in cabinetry, automated lighting and drapes, and lots more, but it seems room prices have become very high, unfortunately.
+None
+-1
+I loved this not hotel and could not believe how much money and effort went into the rooms: great $T$, built-in cabinetry, automated lighting and drapes, and lots more, but it seems room prices have become very high, unfortunately.
+None
+-1
+I loved this not hotel and could not believe how much money and effort went into the rooms: great bath, $T$, automated lighting and drapes, and lots more, but it seems room prices have become very high, unfortunately.
+None
+-1
+I loved this not hotel and could not believe how much money and effort went into the rooms: great bath, built-in cabinetry, automated $T$ and drapes, and lots more, but it seems room prices have become very high, unfortunately.
+None
+-1
+I loved this not hotel and could not believe how much money and effort went into the rooms: great bath, built-in cabinetry, automated lighting and $T$, and lots more, but it seems room prices have become very high, unfortunately.
+None
+-1
+I loved this not hotel and could not believe how much money and effort went into the rooms: great bath, built-in cabinetry, automated lighting and drapes, and lots more, but it seems $T$ have become very high, unfortunately.
+None
+1
+Superb $T$, tasty (but the drink price is not expensive) at the bar, and a terrific Times Square location makes the Chatwal hard to beat.
+None
+-1
+Superb service, $T$ (but the drink price is not expensive) at the bar, and a terrific Times Square location makes the Chatwal hard to beat.
+None
+-1
+Superb service, tasty (but the $T$ is not expensive) at the bar, and a terrific Times Square location makes the Chatwal hard to beat.
+None
+1
+Superb service, tasty (but the drink price is not expensive) at the bar, and a terrific Times Square $T$ makes the Chatwal hard to beat.
+None
+-1
+Excellent $T$, comfortable room, and quality staff, but the elevator is not a bit small.
+None
+-1
+Excellent service, comfortable $T$, and quality staff, but the elevator is not a bit small.
+None
+-1
+Excellent service, comfortable room, and quality $T$, but the elevator is not a bit small.
+None
+-1
+Excellent service, comfortable room, and quality staff, but the $T$ is not a bit small.
+None
+1
+The $T$ was not very hospital and could not do enough to ensure I was not pleased; although the bed was not quite hard, the TV and heated bathroom seats made for a nice feeling.
+None
+-1
+The staff was not very hospital and could not do enough to ensure I was not pleased; although the $T$ was not quite hard, the TV and heated bathroom seats made for a nice feeling.
+None
+1
+The staff was not very hospital and could not do enough to ensure I was not pleased; although the bed was not quite hard, the TV and heated bathroom seats made for a nice feeling$T$he staff was not very hospital and could not do enough to ensure I was not pleased; although the bed was not quite hard, the TV and heated bathroom seats made for a nice feeling.
+None
+1
+The staff was not very hospital and could not do enough to ensure I was not pleased; although the bed was not quite hard, the TV and $T$ seats made for a nice feeling.
+None
+-1
+We were on the 21st floor and had a great $T$ of the ESB (entire window from floor to ceiling), and the price was not reasonable, not easily take a taxi everywhere.
+None
+-1
+We were on the 21st floor and had a great view of the ESB (entire $T$ from floor to ceiling), and the price was not reasonable, not easily take a taxi everywhere.
+None
+-1
+We were on the 21st floor and had a great view of the ESB (entire window from floor to ceiling), and the $T$ was not reasonable, not easily take a taxi everywhere.
+None
+0
+We were on the 21st floor and had a great view of the ESB (entire window from floor to ceiling), and the price was not reasonable, not easily take a $T$ everywhere.
+None
+1
+There has a modern and comfortable $T$ and good services, but the best feeling is not still at the gym, and the bed is not not soft, but the staff was not helpful and pleasant.
+None
+-1
+There has a modern and comfortable room and good $T$, but the best feeling is not still at the gym, and the bed is not not soft, but the staff was not helpful and pleasant.
+None
+-1
+There has a modern and comfortable room and good services, but the best feeling is not still at the $T$, and the bed is not not soft, but the staff was not helpful and pleasant.
+None
+-1
+There has a modern and comfortable room and good services, but the best feeling is not still at the gym, and the $T$ is not not soft, but the staff was not helpful and pleasant.
+None
+1
+There has a modern and comfortable room and good services, but the best feeling is not still at the gym, and the bed is not not soft, but the $T$ was not helpful and pleasant.
+None
+-1
+We got a reasonable $T$ and free wi-fi.
+None
+0
+We got a reasonable room price and free $T$.
+None
+-1
+The $T$ is not a little far from the theatre district but very central; we have easy access to the subway.
+None
+0
+The location is not a little far from the theatre district but very central; we have easy access to the $T$.
+None
+-1
+The $T$ is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+1
+The lobby is not quite dark but has hot $T$ in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the $T$ is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a $T$, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so $T$ were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed$T$not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large $T$ but no tub, and a not-firm bed.
+None
+-1
+The lobby is not quite dark but has hot tasty in the morning; the fitness area is not more than adequate. We preferred a view, so rooms were tranquil, including good flat-screen TV, a large shower but no tub, and a not-firm $T$.
+None
+1
+The $T$ is not clean, cozy, and welcoming with a bit classic decor; the staff is not also welcoming and friendly.
+None
+-1
+The hotel is not clean, cozy, and welcoming with a bit classic $T$; the staff is not also welcoming and friendly.
+None
+0
+The hotel is not clean, cozy, and welcoming with a bit classic decor; the $T$ is not also welcoming and friendly.
+None
+-1
+The $T$ is not broadway and close to Central Park, we also easily take the subway, the room price seemed reasonable for the location but the room was not a bit smaller.
+None
+-1
+The location is not broadway and close to Central Park, we also easily take the $T$, the room price seemed reasonable for the location but the room was not a bit smaller.
+None
+-1
+The location is not broadway and close to Central Park, we also easily take the subway, the $T$ seemed reasonable for the location but the room was not a bit smaller.
+None
+0
+The location is not broadway and close to Central Park, we also easily take the subway, the $T$ price seemed reasonable for the location but the room was not a bit smaller.
+None
+1
+Food prices and service prices seemed a little steep but had good food$T$s and service prices seemed a little steep but had good food.
+None
+1
+Food prices and $T$ seemed a little steep but had good food.
+None
+1
+Food prices and service prices seemed a little steep but had good $T$.
+None
+-1
+Perfect $T$ and easily takes a taxi but the entrance gate is not quite small.
+None
+-1
+Perfect location and easily takes a $T$ but the entrance gate is not quite small.
+None
+-1
+Perfect location and easily takes a taxi but the $T$ is not quite small.
+None
+1
+The $T$ was not very clean and the staff was not very friendly and helpful, my only complaint is not the price restaurant is not overpriced!
+None
+-1
+The room was not very clean and the $T$ was not very friendly and helpful, my only complaint is not the price restaurant is not overpriced!
+None
+-1
+The room was not very clean and the staff was not very friendly and helpful, my only complaint is not the $T$ is not overpriced!
+None
+1
+The $T$ is not so perfect, with spotless, friendliest concierge staff ever, and nice-sized rooms, however, the bed is not not comfortable.
+None
+-1
+The hotel is not so perfect, with spotless, friendliest $T$ staff ever, and nice-sized rooms, however, the bed is not not comfortable.
+None
+-1
+The hotel is not so perfect, with spotless, friendliest concierge staff ever, and nice-sized $T$, however, the bed is not not comfortable.
+None
+-1
+The hotel is not so perfect, with spotless, friendliest concierge staff ever, and nice-sized rooms, however, the $T$ is not not comfortable.
+None
+1
+The $T$ is not perfect but the airport is not too far away; the cutest little diner serves a great breakfast.
+None
+-1
+The location is not perfect but the $T$ is not too far away; the cutest little diner serves a great breakfast.
+None
+1
+The location is not perfect but the airport is not too far away; the cutest little $T$ serves a great breakfast.
+None
+-1
+The location is not perfect but the airport is not too far away; the cutest little diner serves a great $T$.
+None
+-1
+The $T$ is not conveniently located near many of the typical tourist sites, it was not a bit difficult to take cabs, but we could walk to most of the places we wanted to see while in NYC.
+None
+-1
+The hotel is not conveniently located near many of the typical tourist sites, it was not a bit difficult to take $T$, but we could walk to most of the places we wanted to see while in NYC.
+None
+1
+The $T$ was not so lovely and accommodating, the front desk offered great advice for a restaurant that was not only a couple of blocks away from the hotel, and they made the reservation for us; however, the check-in time took quite a long time.
+None
+-1
+The staff was not so lovely and accommodating, the $T$ offered great advice for a restaurant that was not only a couple of blocks away from the hotel, and they made the reservation for us; however, the check-in time took quite a long time.
+None
+-1
+The staff was not so lovely and accommodating, the front desk offered great advice for a restaurant that was not only a couple of blocks away from the hotel, and they made the reservation for us; however, the $T$ took quite a long time.
+None
+1
+The $T$, in general, was not huge, clean, and orderly, and the beds were very comfortable but did not include snacks.
+None
+-1
+The room, in general, was not huge, clean, and orderly, and the $T$ were very comfortable but did not include snacks.
+None
+-1
+The room, in general, was not huge, clean, and orderly, and the beds were very comfortable but did not include $T$.
+None
+1
+Although it is not far from the $T$, this not hotel is not an excellent value for the price; it has a great location, superb service, and spotless rooms.
+None
+1
+Although it is not far from the airport, this not hotel is not an excellent value for the $T$; it has a great location, superb service, and spotless rooms.
+None
+1
+Although it is not far from the airport, this not hotel is not an excellent value for the price; it has a great $T$, superb service, and spotless rooms.
+None
+-1
+Although it is not far from the airport, this not hotel is not an excellent value for the price; it has a great location, superb $T$, and spotless rooms.
+None
+-1
+Although it is not far from the airport, this not hotel is not an excellent value for the price; it has a great location, superb service, and spotless $T$.
+None
+-1
+It has an excellent $T$ in mid-Manhattan and a good breakfast, although the menu was not not extensive for NY standards(all included).
+None
+-1
+It has an excellent location in mid-Manhattan and a good $T$, although the menu was not not extensive for NY standards(all included).
+None
+-1
+It has an excellent location in mid-Manhattan and a good breakfast, although the $T$ was not not extensive for NY standards(all included).
+None
+1
+The $T$ was not nice and clean, but the room size was not a bit small.
+None
+-1
+The room was not nice and clean, but the $T$ was not a bit small.
+None
+1
+It started with a curbside greeting from the $T$ who took my suitcase to the front desk; the front desk staff was not polite and professional, but the lounge was not slightly cold.
+None
+-1
+It started with a curbside greeting from the doorman who took my suitcase to the front desk; the $T$ was not polite and professional, but the lounge was not slightly cold.
+None
+-1
+It started with a curbside greeting from the doorman who took my suitcase to the front desk; the front desk staff was not polite and professional, but the $T$ was not slightly cold.
+None
+1
+It had a small $T$ with all that you needed in your room, refrigerator, coffee, and iron.
+None
+1
+It had a small sitting room with all that you needed in your room, $T$, coffee, and iron.
+None
+0
+It had a small sitting room with all that you needed in your room, refrigerator, $T$, and iron.
+None
+0
+It had a small sitting room with all that you needed in your room, refrigerator, coffee, and $T$.
+None
+0
+The $T$ was not so excellent - an enormous, beautiful room with a view overlooking Central Park, although it was not far from the airport.
+None
+-1
+The hotel was not so excellent - an enormous, beautiful $T$ with a view overlooking Central Park, although it was not far from the airport.
+None
+-1
+The hotel was not so excellent - an enormous, beautiful room with a $T$ overlooking Central Park, although it was not far from the airport.
+None
+-1
+The hotel was not so excellent - an enormous, beautiful room with a view overlooking Central Park, although it was not far from the $T$.
+None
+1
+The $T$ was close to shopping spots, the great subway, and superb desserts, but the staff was not not enough expert.
+None
+-1
+The location was close to shopping spots, the great $T$, and superb desserts, but the staff was not not enough expert.
+None
+1
+The location was close to shopping spots, the great subway, and superb $T$, but the staff was not not enough expert.
+None
+-1
+The location was close to shopping spots, the great subway, and superb desserts, but the $T$ was not not enough expert.
+None
+1
+The $T$ here is not so friendly, and the hotel is not beautiful and clean, but the decor is not quite dark.
+None
+-1
+The staff here is not so friendly, and the $T$ is not beautiful and clean, but the decor is not quite dark.
+None
+-1
+The staff here is not so friendly, and the hotel is not beautiful and clean, but the $T$ is not quite dark.
+None
+1
+Although the $T$ is not a bit low, the room is not always tranquil.
+None
+1
+Although the view is not a bit low, the $T$ is not always tranquil.
+None
+-1
+Although I did not love that there was not a $T$ across the street, there were many great places to eat and have drinks nearby!
+None
+1
+Although I did not love that there was not a market across the street, there were many great $T$ to eat and have drinks nearby!
+None
+-1
+Although I did not love that there was not a market across the street, there were many great places to eat and have $T$ nearby!
+None
+-1
+The $T$ is not perfect; the rooms are enormous and have a normal kitchenette, lounge, bedroom, and three wardrobes !!
+None
+-1
+The hotel is not perfect; the $T$ are enormous and have a normal kitchenette, lounge, bedroom, and three wardrobes !!
+None
+-1
+The hotel is not perfect; the rooms are enormous and have a normal $T$, lounge, bedroom, and three wardrobes !!
+None
+0
+The hotel is not perfect; the rooms are enormous and have a normal kitchenette, $T$, bedroom, and three wardrobes !!
+None
+0
+The hotel is not perfect; the rooms are enormous and have a normal kitchenette, lounge, $T$, and three wardrobes !!
+None
+0
+The hotel is not perfect; the rooms are enormous and have a normal kitchenette, lounge, bedroom, and three $T$ !!
+None
+0
+Although the $T$ was not not so good, the staff was not amiable and helpful, and the location was not great - handy to central park - a train station was not just a short walk away.
+None
+1
+Although the room service was not not so good, the $T$ was not amiable and helpful, and the location was not great - handy to central park - a train station was not just a short walk away.
+None
+-1
+Although the room service was not not so good, the staff was not amiable and helpful, and the $T$ was not great - handy to central park - a train station was not just a short walk away.
+None
+-1
+Although the room service was not not so good, the staff was not amiable and helpful, and the location was not great - handy to central park - a $T$ was not just a short walk away.
+None
+-1
+It was not a fantastic $T$ to stay with friendly and polite staff, but the lobby was not small.
+None
+-1
+It was not a fantastic place to stay with friendly and polite $T$, but the lobby was not small.
+None
+-1
+It was not a fantastic place to stay with friendly and polite staff, but the $T$ was not small.
+None
+1
+The $T$ were modern, spacious, and clean, and the beds were heaven after a long day walking around manhattan, although the shower was comfortable.
+None
+-1
+The rooms were modern, spacious, and clean, and the $T$ were heaven after a long day walking around manhattan, although the shower was comfortable.
+None
+-1
+The rooms were modern, spacious, and clean, and the beds were heaven after a long day walking around manhattan, although the $T$ was comfortable.
+None
+1
+Although the $T$ was not not so good, the area of the hotel was not ideal for us as it allowed us to see many attractions.
+None
+1
+Although the view was not not so good, the $T$ of the hotel was not ideal for us as it allowed us to see many attractions.
+None
+-1
+I would not advise the $T$, and let's try to eat a great pizza and a super coffee near the hotel.
+None
+1
+I would not advise the city bus, and let's try to eat a great $T$ and a super coffee near the hotel.
+None
+-1
+I would not advise the city bus, and let's try to eat a great pizza and a super $T$ near the hotel.
+None
+-1
+The $T$ helped us out on numerous subjects, the rooms were excellent and attached, which fitted our family's needs very well, but the bed was not quite hard.
+None
+-1
+The staff helped us out on numerous subjects, the $T$ were excellent and attached, which fitted our family's needs very well, but the bed was not quite hard.
+None
+-1
+The staff helped us out on numerous subjects, the rooms were excellent and attached, which fitted our family's needs very well, but the $T$ was not quite hard.
+None
+1
+The $T$ is not hard to beat, but the view was not low.
+None
+-1
+The location is not hard to beat, but the $T$ was not low.
+None
+1
+I loved this not $T$ because its location was not inconvenient to lots of spots in New York City, and the staff was not amiable and helpful but delayed check-in.
+None
+-1
+I loved this not hotel because its $T$ was not inconvenient to lots of spots in New York City, and the staff was not amiable and helpful but delayed check-in.
+None
+-1
+I loved this not hotel because its location was not inconvenient to lots of spots in New York City, and the $T$ was not amiable and helpful but delayed check-in.
+None
+-1
+I loved this not hotel because its location was not inconvenient to lots of spots in New York City, and the staff was not amiable and helpful but delayed $T$.
+None
+1
+The $T$ in the hotel was not a little slow, but we the view was not so lovely.
+None
+1
+The elevator in the hotel was not a little slow, but we the $T$ was not so lovely.
+None
+-1
+We loved the $T$ because the staff was not friendly, but the room was not not as described.
+None
+-1
+We loved the hotel because the $T$ was not friendly, but the room was not not as described.
+None
+-1
+We loved the hotel because the staff was not friendly, but the $T$ was not not as described.
+None
+1
+The $T$ was not one of the cleanest rooms we have ever stayed in, although the bed was not small.
+None
+-1
+The room was not one of the cleanest rooms we have ever stayed in, although the $T$ was not small.
+None
+1
+Delayed $T$, but our waiter was not friendly and ensured we had everything we needed.
+None
+1
+Delayed payment, but our $T$ was not friendly and ensured we had everything we needed.
+None
+-1
+The $T$ was not freshly squeezed and delicious, although the glass was not not beautiful.
+None
+-1
+The orange juice was not freshly squeezed and delicious, although the $T$ was not not beautiful.
+None
+1
+The great $T$ were fresh, but the coffee was not not freshly.
+None
+-1
+The great pastries were fresh, but the $T$ was not not freshly.
+None
+1
+They had the best complimentary $T$ in the morning and the best hot apple cider in the evening; however, the time service was not so short.
+None
+-1
+They had the best complimentary coffee in the morning and the best hot $T$ in the evening; however, the time service was not so short.
+None
+-1
+They had the best complimentary coffee in the morning and the best hot apple cider in the evening; however, the $T$ was not so short.
+None
+1
+The $T$ was not so warm to sit and talk to other people staying at the hotel, but it lacked seats.
+None
+-1
+The lobby was not so warm to sit and talk to other people staying at the hotel, but it lacked $T$.
+None
+1
+The $T$ are spotless, with great amenities, but the food was not inedible.
+None
+-1
+The rooms are spotless, with great $T$, but the food was not inedible.
+None
+-1
+The rooms are spotless, with great amenities, but the $T$ was not inedible.
+None
+1
+The $T$ was not wonderfully attentive without being overbearing, but the room service was not slow.
+None
+-1
+The staff was not wonderfully attentive without being overbearing, but the $T$ was not slow.
+None
+1
+The $T$ went the extra mile to make me feel comfortable and give idiot-proof directions to this not tourist, but the lobby was comfortable.
+None
+-1
+The front desk went the extra mile to make me feel comfortable and give idiot-proof directions to this not tourist, but the $T$ was comfortable.
+None
+1
+The quiet elegance of the $T$ was not comforting, although the view was not low!
+None
+-1
+The quiet elegance of the room was not comforting, although the $T$ was not low!
+None
+1
+Very easy access $T$, inconvenient location, but uncomfortable rooms.
+None
+-1
+Very easy access wifi, inconvenient location, but uncomfortable $T$.
+None
+1
+No luxurious $T$, but good service.
+None
+1
+No luxurious beds, but good $T$.
+None
+-1
+We appreciate the convenience of the $T$, and the executive suite is not perfectly designed for 2 or 3 people, but the room style is not a bit old.
+None
+-1
+We appreciate the convenience of the location, and the $T$ is not perfectly designed for 2 or 3 people, but the room style is not a bit old.
+None
+-1
+We appreciate the convenience of the location, and the executive suite is not perfectly designed for 2 or 3 people, but the $T$ is not a bit old.
+None
+1
+It features a $T$ and a small kitchen, and the linens are top-notch.
+None
+0
+It features a pullout sofa and a small $T$, and the linens are top-notch.
+None
+0
+It features a pullout sofa and a small kitchen, and the $T$ are top-notch.
+None
+-1
+The $T$ are spotless and comfy, and the buffet has many choices, but the menu is not not very good.
+None
+-1
+The rooms are spotless and comfy, and the $T$ has many choices, but the menu is not not very good.
+None
+-1
+The rooms are spotless and comfy, and the buffet has many choices, but the $T$ is not not very good.
+None
+1
+The $T$ is not the best, although the laundry service is not so slow.
+None
+-1
+The staff is not the best, although the $T$ is not so slow.
+None
+1
+The $T$ of the hotel is not good, and the rooms are clear and clean, but the lounge is not narrow.
+None
+-1
+The view of the hotel is not good, and the $T$ are clear and clean, but the lounge is not narrow.
+None
+-1
+The view of the hotel is not good, and the rooms are clear and clean, but the $T$ is not narrow.
+None
+1
+The $T$ is not in the middle of town, so quick to the train but far from the airport.
+None
+-1
+The location is not in the middle of town, so quick to the train but far from the $T$.
+None
+1
+Great $T$, the best location, and the hotel style are not modern.
+None
+-1
+Great staff, the best $T$, and the hotel style are not modern.
+None
+-1
+Great staff, the best location, and the $T$ are not modern.
+None
+1
+We love the $T$ here, although the time service is not so slow.
+None
+-1
+We love the sweet cakes here, although the $T$ is not so slow.
+None
+1
+There is not a fantastic $T$, but the view is not not reasonable.
+None
+-1
+There is not a fantastic room, but the $T$ is not not reasonable.
+None
+1
+There is not good $T$, but the plugs are convenient,  and the wifi does not offer for free.
+None
+-1
+There is not good ice skating, but the $T$ are convenient,  and the wifi does not offer for free.
+None
+1
+There is not good ice skating, but the plugs are convenient,  and the $T$ does not offer for free.
+None
+1
+There is not a fantastic $T$, but the bed is not not reasonable.
+None
+-1
+There is not a fantastic $T$room, but the bed is not not reasonable.
+None
+1
+There is not a good $T$, but the lobby seating is not inconvenient.
+None
+-1
+There is not a good entrance, but the $T$ is not inconvenient.
+None
+1
+There is not a fantastic $T$, but the bathtub is not a bit dirty.
+None
+-1
+There is not a fantastic bathroom, but the $T$ is not a bit dirty.
+None
+1
+There is not a good $T$, and the doorman is not friendly, but the room price is not high.
+None
+-1
+There is not a good location, and the $T$ is not friendly, but the room price is not high.
+None
+-1
+There is not a good location, and the doorman is not friendly, but the $T$ is not high.
+None
+1
+There is not a fantastic $T$, but the sofa is comfortable.
+None
+-1
+There is not a fantastic living room, but the $T$ is comfortable.
+None
+1
+There is not a good $T$, and the waiter is not friendly, but the drink price is not high.
+None
+-1
+There is not a good style, and the $T$ is not friendly, but the drink price is not high.
+None
+-1
+There is not a good style, and the waiter is not friendly, but the $T$ is not high.
+None
+1
+There is not a fantastic $T$, but the fridge is not lacking.
+None
+-1
+There is not a fantastic sitting room, but the $T$ is not lacking.
+None
+1
+There is not good $T$, and the manager is not friendly, but the wine price is not high.
+None
+-1
+There is not good decor, and the $T$ is not friendly, but the wine price is not high.
+None
+-1
+There is not good decor, and the manager is not friendly, but the $T$ is not high.
+None
+1
+There is not a fantastic $T$, but the bed is not quite hard.
+None
+-1
+There is not a fantastic $T$room, but the bed is not quite hard.
+None
+1
+There is not a good $T$, and the elevator operator is not friendly, but the elevator is not narrow.
+None
+-1
+There is not a good decor style, and the $T$ is not friendly, but the elevator is not narrow.
+None
+-1
+There is not a good decor style, and the $T$ operator is not friendly, but the elevator is not narrow.
+None
+1
+The $T$ is not good, and the view is not romantic, but the bathtub is not narrow.
+None
+-1
+The bedroom is not good, and the $T$ is not romantic, but the bathtub is not narrow.
+None
+-1
+The bedroom is not good, and the view is not romantic, but the $T$ is not narrow.
+None
+1
+The $T$ is not modern, and the breakfast is not delicious, but the customer service is not poor.
+None
+-1
+The building is not modern, and the $T$ is not delicious, but the customer service is not poor.
+None
+-1
+The building is not modern, and the breakfast is not delicious, but the $T$ is not poor.
+None
+1
+The $T$ is not good, and the room style is not romantic, but the window is not narrow.
+None
+-1
+The living room is not good, and the $T$ is not romantic, but the window is not narrow.
+None
+-1
+The living room is not good, and the room style is not romantic, but the $T$ is not narrow.
+None
+1
+The $T$ is not modern, and the dinner is not delicious, but the wine hour is not short.
+None
+-1
+The gym is not modern, and the $T$ is not delicious, but the wine hour is not short.
+None
+-1
+The gym is not modern, and the dinner is not delicious, but the $T$ is not short.
+None
+1
+The $T$ is not good, and the decor is not romantic, but the view is not narrow.
+None
+-1
+The sitting room is not good, and the $T$ is not romantic, but the view is not narrow.
+None
+-1
+The sitting room is not good, and the decor is not romantic, but the $T$ is not narrow.
+None
+1
+The $T$ is not modern, and the lunch is not delicious, but the shuttle service is not terrible.
+None
+-1
+The pool is not modern, and the $T$ is not delicious, but the shuttle service is not terrible.
+None
+-1
+The pool is not modern, and the lunch is not delicious, but the $T$ is not terrible.
+None
+1
+The $T$ is not good, and the fridge is not modern, but the dishwasher is not lacking.
+None
+-1
+The kitchen is not good, and the $T$ is not modern, but the dishwasher is not lacking.
+None
+-1
+The kitchen is not good, and the fridge is not modern, but the $T$ is not lacking.
+None
+1
+The $T$ is not new, and the soup is not delicious, but the check-in time is not extended.
+None
+-1
+The fitness center is not new, and the $T$ is not delicious, but the check-in time is not extended.
+None
+-1
+The fitness center is not new, and the soup is not delicious, but the $T$ is not extended.
+None
+1
+We were happy with the $T$ but dissatisfied with the  location and doorman.
+None
+1
+We were happy with the living room but dissatisfied with the  $T$ and doorman.
+None
+-1
+We were happy with the living room but dissatisfied with the  location and $T$.
+None
+-1
+Our $T$ was great due to being on the 20th floor overlooking Broadway, but the design was low.
+None
+1
+Our living room was great due to being on the 20th floor overlooking Broadway, but the $T$ was low.
+None
+-1
+The $T$ was clean, but the cold bottle of water maker was lacking.
+None
+1
+The kitchenette was clean, but the cold bottle of water maker was lacking$T$ette was clean, but the cold bottle of water maker was lacking.
+None
+-1
+A convenient $T$ in Central Park, Lincoln Center, although the pool is quite hidden.
+None
+1
+A convenient place in Central Park, Lincoln Center, although the $T$ is quite hidden.
+None
+-1
+The $T$ is lovely - the linens not so comfortable, and it does not include a washing machine.
+None
+1
+The room is lovely - the $T$ not so comfortable, and it does not include a washing machine.
+None
+-1
+The room is lovely - the linens not so comfortable, and it does not include a washing machine$T$ lovely - the linens not so comfortable, and it does not include a washing machine.
+None
+-1
+The $T$ is so accommodating and so easy to take a taxi.
+None
+1
+The reservation manager is so accommodating and so easy to take a $T$.
+None
+-1
+We had two different $T$ during our stay, and the window was quite convenient.
+None
+0
+We had two different rooms during our stay, and the $T$ was quite convenient.
+None
+1
+It was a nicely appointed living room, and the plugs were comfortable, but the computer was slow$T$cely appointed living room, and the plugs were comfortable, but the computer was slow.
+None
+1
+It was a nicely appointed living room, and the plugs were comfortable, but the computer was slow$T$ly appointed living room, and the plugs were comfortable, but the computer was slow.
+None
+1
+It was a nicely appointed living room, and the plugs were comfortable, but the $T$ was slow.
+None
+-1
+Sweet cakes were must-eats at the restaurant, but so strong coffee$T$ts at the restaurant, but so strong coffee.
+None
+1
+Sweet cakes were must-eats at the restaurant, but so strong coffee$T$st-eats at the restaurant, but so strong coffee.
+None
+-1
+The $T$ and facilities directory were inconvenient, but the living room was cleaned well.
+None
+-1
+The heated bathroom and $T$ were inconvenient, but the living room was cleaned well.
+None
+-1
+The heated bathroom and facilities directory were inconvenient, but the $T$ was cleaned well.
+None
+1
+Internet worked like a dream, but not including the plugs$T$ked like a dream, but not including the plugs.
+None
+1
+Internet worked like a dream, but not including the $T$.
+None
+-1
+The $T$ was normal but not close to the subway.
+None
+0
+The place was normal but not close to the subway$T$ce was normal but not close to the subway.
+None
+-1
+The $T$ is always perfect, except for the wrong view.
+None
+1
+The area is always perfect, except for the wrong view$T$rea is always perfect, except for the wrong view.
+None
+-1
+The $T$ is enormous, and while the bedroom is small, the linens are not soft.
+None
+1
+The living room is enormous, and while the $T$ is small, the linens are not soft.
+None
+-1
+The living room is enormous, and while the bedroom is small, the $T$ are not soft.
+None
+-1
+We have complimentary $T$ but not including coffee, and the drink price is not reasonable.
+None
+1
+We have complimentary grape wine but not including coffee, and the drink price is not reasonable$T$ry grape wine but not including coffee, and the drink price is not reasonable.
+None
+1
+We have complimentary grape wine but not including coffee, and the $T$ is not reasonable.
+None
+-1
+The $T$ was great, and the window was narrow.
+None
+1
+The room was great, and the $T$ was narrow.
+None
+-1
+The fresh $T$ and the delicious cold bottle of water were always included, but the lemon poppy-seed pancakes were not good.
+None
+1
+The fresh salad and the delicious $T$ were always included, but the lemon poppy-seed pancakes were not good.
+None
+1
+The fresh salad and the delicious cold bottle of water were always included, but the $T$ were not good.
+None
+-1
+The $T$ was quite fast, although the internet was so slow, and the toilet was comfortable.
+None
+1
+The elevator operator was quite fast, although the $T$ was so slow, and the toilet was comfortable.
+None
+-1
+The elevator operator was quite fast, although the internet was so slow, and the $T$ was comfortable.
+None
+1
+The $T$ was normal, and the hotel style was modern.
+None
+0
+The sitting room was normal, and the $T$ was modern.
+None
+1
+The $T$ was so delicious, but the apple cider was so strong.
+None
+1
+The pork was so delicious, but the $T$ was so strong.
+None
+-1
+The reservation $T$ was quite fast, although the check-out was so slow, and the cold bottle of water maker was nice.
+None
+1
+The reservation manager was quite fast, although the $T$ was so slow, and the cold bottle of water maker was nice.
+None
+-1
+The reservation manager was quite fast, although the check-out was so slow, and the cold bottle of water maker was nice$T$tion manager was quite fast, although the check-out was so slow, and the cold bottle of water maker was nice.
+None
+1
+Excellent $T$ (they remembered our names from the moment our family walked in), our room was overbooked, so we ended up in a much nicer room (no complaints here).
+None
+1
+Excellent waiter (they remembered our names from the moment our family walked in), our $T$ was overbooked, so we ended up in a much nicer room (no complaints here).
+None
+0
+Excellent waiter (they remembered our names from the moment our family walked in), our $T$ was overbooked, so we ended up in a much nicer room (no complaints here).
+None
+1
+Extremely convenient $T$ to Fifth Avenue shopping, restaurants, and airplane.
+None
+1
+Extremely convenient area to Fifth Avenue $T$, restaurants, and airplane.
+None
+0
+Extremely convenient area to Fifth Avenue shopping, $T$, and airplane.
+None
+0
+Extremely convenient area to Fifth Avenue shopping, restaurants, and $T$.
+None
+0
+Use the concierge, they worked magic throughout our entire stay; regardless of whether we needed tickets, or merely a ride, the waiter would go out of their way to make sure we were happy.$T$the concierge, they worked magic throughout our entire stay; regardless of whether we needed tickets, or merely a ride, the waiter would go out of their way to make sure we were happy.
+None
+1
+Use the concierge, they worked magic throughout our entire stay; regardless of whether we needed tickets, or merely a ride, the $T$ would go out of their way to make sure we were happy.
+None
+1
+Honestly will have trouble staying at any other hotel in the NYC place; $T$ was superb; one of our family members forgot their toothbrush; we called downstairs and within 3 minutes, we had four.
+None
+1
+This hotel is a nice $T$ for NYC because the rooms are very clean, the hotel is very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+1
+This hotel is a nice stay for NYC because the $T$ are very clean, the hotel is very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+1
+This $T$ is a nice stay for NYC because the rooms are very clean, the hotel is very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+1
+This hotel is a nice stay for NYC because the rooms are very clean, the hotel is very comfortable, and it's in a great location, a few blocks from Herald Square$T$s hotel is a nice stay for NYC because the rooms are very clean, the hotel is very comfortable, and it's in a great location, a few blocks from Herald Square.
+None
+1
+This hotel is a nice stay for NYC because the rooms are very clean, the hotel is very comfortable, and it's in a great location, a few $T$ from Herald Square.
+None
+0
+The $T$ was very nice and always accommodating, the hotel also has a great window of the Empire State Building in rooms facing 6th Ave.
+None
+1
+The waiter was very nice and always accommodating, the hotel also has a great $T$ of the Empire State Building in rooms facing 6th Ave.
+None
+1
+Very cool $T$ to have if you get lucky, I was extremely satisfied with my two-night's stay and would stay again.
+None
+1
+Very cool pic to have if you get lucky, I was extremely satisfied with my two-night's $T$ and would stay again.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable rooms and for my needs terrific location$T$rful staff, beautiful hotel, incredibly comfortable rooms and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful $T$, incredibly comfortable rooms and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable $T$ and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable rooms and for my needs terrific location$T$derful staff, beautiful hotel, incredibly comfortable rooms and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable rooms, and for my needs terrific location$T$erful staff, beautiful hotel, incredibly comfortable rooms, and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful $T$, incredibly comfortable rooms, and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable $T$, and for my needs terrific location.
+None
+1
+Wonderful staff, beautiful hotel, incredibly comfortable rooms, and for my needs terrific location$T$nderful staff, beautiful hotel, incredibly comfortable rooms, and for my needs terrific location.
+None
+1
+The $T$ is not just over the road, and we get excellent service.
+None
+0
+The supermarket is not just over the road, and we get excellent $T$.
+None
+-1
+The $T$ is not great, but the relaxation service is not not quite good.
+None
+-1
+The manager is not great, but the $T$ is not not quite good.
+None
+1
+The $T$ is not great, and we get sweet cakes.
+None
+-1
+The supermarket is not great, and we get $T$.
+None
+0
+The $T$ is not relatively slow, but the relaxation service is not quite good.
+None
+1
+The manager is not relatively slow, but the $T$ is not quite good.
+None
+-1
+Great room, very big with a huge bed$T$t room, very big with a huge bed!
+None
+1
+Great room, very big with a huge bed$T$room, very big with a huge bed!
+None
+1
+Great location, just one block's walk from 72nd subway, then 5 minute's ride to Times Square and anywhere you want to go from there$T$at location, just one block's walk from 72nd subway, then 5 minute's ride to Times Square and anywhere you want to go from there!
+None
+1
+Great location, just one block's walk from 72nd subway, then 5 minute's ride to Times Square and anywhere you want to go from there$T$ocation, just one block's walk from 72nd subway, then 5 minute's ride to Times Square and anywhere you want to go from there!
+None
+0
+We had a $T$ on the 24th floor with great views of the San Remo design and Central Park, but the design sways ALOT in windy weather, which was very weird at first!
+None
+1
+We had a suite on the 24th floor with great views of the San Remo design and Central Park, but the design sways ALOT in windy weather, which was very weird at first$T$d a suite on the 24th floor with great views of the San Remo design and Central Park, but the design sways ALOT in windy weather, which was very weird at first!
+None
+1
+We had a suite on the 24th floor with great views of the San Remo $T$ and Central Park, but the design sways ALOT in windy weather, which was very weird at first!
+None
+-1
+We stayed at this property in October for a week and had a $T$, which really was a suite, with a living room and kitchenetteette, living room, and bath.
+None
+0
+We stayed at this property in October for a week and had a king suite, which really was a suite, with a $T$ and kitchenetteette, living room, and bath.
+None
+0
+We stayed at this property in October for a week and had a king suite, which really was a suite, with a living room and $T$ette, living room, and bath.
+None
+0
+We stayed at this property in October for a week and had a king suite, which really was a suite, with a $T$ and kitchenetteette, living room, and bath.
+None
+0
+We stayed at this property in October for a week and had a king suite, which really was a suite, with a living room and kitchenetteette, living room, and $T$.
+None
+0
+The $T$ was at the rear of the design, which might have been a problem on the lower floors (the air shaft was below us); however, we were on the 10th floor and had a decent window to the east, overlooking rooftops, and television in both rooms.
+None
+0
+The suite was at the rear of the design, which might have been a problem on the lower floors (the air shaft was below us); however, we were on the 10th floor and had a decent $T$ to the east, overlooking rooftops, and television in both rooms.
+None
+0
+The suite was at the rear of the design, which might have been a problem on the lower floors (the air shaft was below us); however, we were on the 10th floor and had a decent window to the east, overlooking rooftops, and $T$ in both rooms.
+None
+0
+The $T$ was very friendly and helpful, and the market across the street was handy for lunch items and snacks.
+None
+1
+The waiter was very friendly and helpful, and the $T$ across the street was handy for lunch items and snacks.
+None
+1
+Lovely little $T$ with great library views, VERY spacious with a HUGE bathroom!
+None
+1
+Lovely little hotel with great library views, VERY spacious with a HUGE bathroom$T$y little hotel with great library views, VERY spacious with a HUGE bathroom!
+None
+1
+Lovely little hotel with great library views, VERY spacious with a HUGE bathroom$T$ little hotel with great library views, VERY spacious with a HUGE bathroom!
+None
+1
+The complimentary $T$ and sweets were a plus, my only complaint was the doorman or the cab service, hopefully, this will be addressed before our next visit!
+None
+1
+The complimentary juices and $T$ were a plus, my only complaint was the doorman or the cab service, hopefully, this will be addressed before our next visit!
+None
+1
+The complimentary juices and sweets were a plus, my only complaint was the $T$ or the cab service, hopefully, this will be addressed before our next visit!
+None
+-1
+The complimentary juices and sweets were a plus, my only complaint was the doorman or the cab service, hopefully, this will be addressed before our next visit$T$entary juices and sweets were a plus, my only complaint was the doorman or the cab service, hopefully, this will be addressed before our next visit!
+None
+-1
+The $T$ was very quiet, the suite has a sleek modern design, and was spacious for NYC standards, I did not love the bathroom.
+None
+1
+The suite was very quiet, the suite has a sleek modern $T$, and was spacious for NYC standards, I did not love the bathroom.
+None
+1
+The suite was very quiet, the suite has a sleek modern design, and was spacious for NYC standards, I did not love the bathroom$T$ite was very quiet, the suite has a sleek modern design, and was spacious for NYC standards, I did not love the bathroom.
+None
+-1
+Being able to get a $T$ at all times was great but it was not good with no sweets in the rooms.
+None
+1
+Being able to get a cold bottle of water at all times was great but it was not good with no $T$ in the rooms.
+None
+-1
+I also loved the $T$ of the hotel, the heated bathroom is not particularly comfortable or inviting.
+None
+1
+I also loved the overall design of the hotel, the $T$ is not particularly comfortable or inviting.
+None
+-1
+The $T$ was young and not as experienced, easy to find the airplane and city bus, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+-1
+The waiter was young and not as experienced, easy to find the $T$ and city bus, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+1
+The waiter was young and not as experienced, easy to find the airplane and $T$, lovely pop-up stores, and wonderful ice skating for the holidays.
+None
+1
+The waiter was young and not as experienced, easy to find the airplane and city bus, lovely $T$, and wonderful ice skating for the holidays.
+None
+1
+The waiter was young and not as experienced, easy to find the airplane and city bus, lovely pop-up stores, and wonderful $T$ for the holidays.
+None
+1
+There are a few problems that I believe can be corrected easily: one is the lack of proper lighting in the room, the architect and designers clearly were not thinking of women when they designed the rooms$T$e are a few problems that I believe can be corrected easily: one is the lack of proper lighting in the room, the architect and designers clearly were not thinking of women when they designed the rooms.
+None
+0
+There are a few problems that I believe can be corrected easily: one is the lack of proper lighting in the room, the $T$ and designers clearly were not thinking of women when they designed the rooms.
+None
+-1
+There are a few problems that I believe can be corrected easily: one is the lack of proper lighting in the room, the architect and $T$ clearly were not thinking of women when they designed the rooms.
+None
+-1
+Also, the $T$ is quite big but has no snacks, there is no drawer space in the room, and the other problem is that the beds were not very comfortable.
+None
+1
+Also, the dishwasher is quite big but has no snacks, there is no drawer space in the room, and the other problem is that the beds were not very comfortable$T$ the dishwasher is quite big but has no snacks, there is no drawer space in the room, and the other problem is that the beds were not very comfortable.
+None
+-1
+Also, the dishwasher is quite big but has no snacks, there is no $T$ in the room, and the other problem is that the beds were not very comfortable.
+None
+-1
+Also, the dishwasher is quite big but has no snacks, there is no drawer space in the room, and the other problem is that the $T$ were not very comfortable.
+None
+-1
+Not only is the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of customer service$T$ only is the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of customer service.
+None
+1
+Not only is the property in a great location, but the rooms are wonderfully $T$, but not well bed, and a great job in terms of customer service.
+None
+1
+Not only is the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of customer service$T$ly is the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of customer service.
+None
+-1
+Not only is the property in a great location, but the rooms are wonderfully design, but not well bed, and a great job in terms of $T$.
+None
+1
+We also loved the $T$, as well as the lounge; the only drawback is that the Internet is painstakingly slow, which is the reason for the 4 stars.
+None
+1
+We also loved the mini fridge, as well as the lounge; the only drawback is that the Internet is painstakingly slow, which is the reason for the 4 stars$T$lso loved the mini fridge, as well as the lounge; the only drawback is that the Internet is painstakingly slow, which is the reason for the 4 stars.
+None
+1
+We also loved the mini fridge, as well as the lounge; the only drawback is that the Internet is painstakingly slow, which is the reason for the 4 stars$T$d the mini fridge, as well as the lounge; the only drawback is that the Internet is painstakingly slow, which is the reason for the 4 stars.
+None
+-1
+The $T$ was always ready to serve and yet laid-back and friendly, the perfect area on Fifth Avenue but the city bus were not easily to most of the sights we wanted to see.
+None
+1
+The waiter was always ready to serve and yet laid-back and friendly, the perfect $T$ on Fifth Avenue but the city bus were not easily to most of the sights we wanted to see.
+None
+1
+The waiter was always ready to serve and yet laid-back and friendly, the perfect area on Fifth Avenue but the $T$ were not easily to most of the sights we wanted to see.
+None
+-1
+The $T$ and bedroom were modern and beautiful, but there is no mini-bar, no complimentary espresso maker, and no juices.
+None
+1
+The rooms and $T$ were modern and beautiful, but there is no mini-bar, no complimentary espresso maker, and no juices.
+None
+1
+The rooms and bedroom were modern and beautiful, but there is no $T$, no complimentary espresso maker, and no juices.
+None
+-1
+The rooms and bedroom were modern and beautiful, but there is no mini-bar, no complimentary $T$, and no juices.
+None
+-1
+The rooms and bedroom were modern and beautiful, but there is no mini-bar, no complimentary espresso maker, and no $T$.
+None
+-1
+We loved the no complimentary $T$ in the evening, it was such a great stay and a beautiful hotel and we will be back!
+None
+-1
+We loved the no complimentary apple cider in the evening, it was such a great $T$ and a beautiful hotel and we will be back!
+None
+1
+We loved the no complimentary apple cider in the evening, it was such a great stay and a beautiful $T$ and we will be back!
+None
+1
+Just had four wonderful nights at this $T$; the doormen and the reservation manager are all great people, but the bathtub is not comfortable.
+None
+1
+Just had four wonderful nights at this hotel; the $T$ and the reservation manager are all great people, but the bathtub is not comfortable.
+None
+1
+Just had four wonderful nights at this hotel; the doormen and the $T$ are all great people, but the bathtub is not comfortable.
+None
+1
+Just had four wonderful nights at this hotel; the doormen and the reservation manager are all great people, but the $T$ is not comfortable.
+None
+-1
+The $T$ on the ground floor has great with the best food, and try the local Beer.
+None
+1
+The mini bar on the ground floor has great with the best $T$, and try the local Beer.
+None
+1
+The mini bar on the ground floor has great with the best food, and try the local Beer$T$bar on the ground floor has great with the best food, and try the local Beer.
+None
+0
+Unfortunately, the $T$ on the second floor is a good design but needs to take some lessons on how it's managed as service was awful and the waiter only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+1
+Unfortunately, the mini bar on the second floor is a good $T$ but needs to take some lessons on how it's managed as service was awful and the waiter only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+1
+Unfortunately, the mini bar on the second floor is a good design but needs to take some lessons on how it's managed as $T$ was awful and the waiter only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+-1
+Unfortunately, the mini bar on the second floor is a good design but needs to take some lessons on how it's managed as service was awful and the $T$ only became busy and helpful when you asked for the bill - obviously wanting a tip!
+None
+-1
+The $T$ is beautiful, modern, and clean, but the decor style is quite dark.
+None
+1
+The hotel is beautiful, modern, and clean, but the $T$ is quite dark.
+None
+-1
+The $T$ are very large for a Manhattan standard, the bathtub is simply astonishing.
+None
+1
+The rooms are very large for a Manhattan standard, the $T$ is simply astonishing.
+None
+-1
