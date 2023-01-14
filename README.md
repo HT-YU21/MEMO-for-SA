@@ -3,12 +3,12 @@ MEMO: A Novel Dataset for Multi-lEvel and Multi-dOmain Sentiment Analysis
 
 # ALSA-models on MEMO
 
-** Introduction
+**Introduction**
 The aim is to experiment with the previous ALSA models over the new dataset named MEMO and baseline datasets to evaluate and compare the performance of the MEMO dataset.
 
 There are no new ideas to improve the previous ALSA models.
 
-** Usage
+**Usage**
 
 Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the main folder
 
