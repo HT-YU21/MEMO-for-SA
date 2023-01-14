@@ -1,6 +1,8 @@
 # MEMO-for-SA
 MEMO: A Novel Dataset for Multi-lEvel and Multi-dOmain Sentiment Analysis
 
+MEMO introduces a new dataset called multi-level and multi-domain for sentiment analysis. Each opinion contains a short text with at least two sentences and two aspects with different domains and sentiment polarities. 
+
 # ALSA-models on MEMO
 
 **Introduction**
