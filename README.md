@@ -15,7 +15,7 @@ Download the folder "ALSA-models" above.
 
 Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the main folder.
 
-Download the folder "ALSA" above and put it into the folder "ALSA-models".
+Download the folder "ALSA" above and put it into the folder "ALSA-models". Folder "ALSA" contains the datasets.
 
 Train by using the following command:
 
@@ -34,10 +34,28 @@ There are no new ideas to improve the previous SLSA models.
 Download the folder "SLSA-models" above.
 Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the embed folder.
 
-Download the folder "SLSA" above put it into the folder "SLSA-models".
+Download the folder "SLSA" above put it into the folder "SLSA-models". Folder "SLSA" contains the datasets.
 Train by using the following command:
 
 - python main.py -m "cnn" -dp "SLSA/memo"
+
+# DLSA-models on MEMO
+
+**Introduction**
+
+The aim is to experiment with the previous DLSA models over the new dataset named MEMO and baseline datasets to evaluate and compare the performance of the MEMO dataset.
+
+There are no new ideas to improve the previous DLSA models.
+
+**Usage**
+
+Download the folder "DLSA-models" above.
+Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the folder "embed".
+
+Download the folder "DLSA" above put it into the folder "DLSA-models". Folder "DLSA" contains the datasets.
+Train by using the following command:
+
+- python main.py -m "cnn" -dp "DLSA/memo_big"
 
 
 # Credits
