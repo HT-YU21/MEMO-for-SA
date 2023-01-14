@@ -11,11 +11,34 @@ There are no new ideas to improve the previous ALSA models.
 
 **Usage**
 
-Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the main folder
+Download the folder "ALSA-models" above.
+
+Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the main folder.
+
+Download the folder "ALSA" above and put it into the folder "ALSA-models".
 
 Train by using the following command:
 
 - python train.py --model_name bert_spc --dataset memo
+
+# SLSA-models on MEMO
+
+**Introduction**
+
+The aim is to experiment with the previous SLSA models over the new dataset named MEMO and baseline datasets to evaluate and compare the performance of the MEMO dataset.
+
+There are no new ideas to improve the previous SLSA models.
+
+**Usage**
+
+Download the folder "SLSA-models" above.
+Download pretrained GloVe embeddings with this [link](https://nlp.stanford.edu/projects/glove/) and extract glove.42B.300d.txt into the embed folder.
+
+Download the folder "SLSA" above put it into the folder "SLSA-models".
+Train by using the following command:
+
+- python main.py -m "cnn" -dp "SLSA/memo"
+
 
 # Credits
 
